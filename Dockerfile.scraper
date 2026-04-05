@@ -1,0 +1,22 @@
+# ── AuctionBot Scheduler — Dockerfile ────────────────────────────────────────
+# Imagen para el scheduler (ab054_scheduler.py) + Playwright (Chromium)
+# NOTA: Esta imagen es más pesada (~1.5GB) por Playwright.
+
+FROM mcr.microsoft.com/playwright/python:v1.50.0-jammy
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1
+
+WORKDIR /opt/auctionbot
+
+# Copiar sólo lo necesario para el scraper
+COPY app/ app/
+
+# Instalar dependencias Python del scraper
+RUN pip install --no-cache-dir flask==3.1.0
+
+# Playwright Chromium ya está en la imagen base
+# sólo aseguramos que el browser esté instalado
+RUN playwright install chromium
+
+CMD ["python", "app/ab054_scheduler.py"]

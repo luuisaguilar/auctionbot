@@ -98,6 +98,7 @@ tr:hover td { background: var(--bg3); }
 .badge-red   { background: rgba(240,90,90,0.12);  color: var(--red); }
 .badge-blue  { background: rgba(79,142,247,0.12); color: var(--accent); }
 .badge-gray  { background: var(--bg3); color: var(--txt2); }
+.badge-purple { background: rgba(155,127,244,0.12); color: var(--purple); }
 
 /* Ratio bar */
 .ratio-cell { display: flex; align-items: center; gap: 8px; }
@@ -125,6 +126,25 @@ tr:hover td { background: var(--bg3); }
 .pulse { width: 7px; height: 7px; border-radius: 50%; background: var(--green); display: inline-block; animation: pulse 2s infinite; }
 @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
 
+/* Categories grid */
+.cat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; margin-bottom: 2rem; }
+.cat-card { background: var(--bg2); border: 1px solid var(--brd); border-radius: 10px; padding: 1.25rem; cursor: pointer; transition: all 0.2s; position: relative; overflow: hidden; }
+.cat-card:hover { border-color: var(--accent); transform: translateY(-2px); box-shadow: 0 4px 16px rgba(0,0,0,0.15); }
+.cat-card.active { border-color: var(--accent); background: var(--bg3); }
+.cat-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: var(--accent); opacity: 0; transition: opacity 0.2s; }
+.cat-card:hover::before, .cat-card.active::before { opacity: 0.8; }
+.cat-icon { font-size: 24px; margin-bottom: 8px; display: block; }
+.cat-name { font-size: 13px; font-weight: 500; margin-bottom: 8px; }
+.cat-stats { display: flex; gap: 12px; }
+.cat-stat { font-size: 11px; color: var(--txt3); font-family: 'IBM Plex Mono', monospace; }
+.cat-stat strong { color: var(--txt); font-weight: 400; font-size: 14px; display: block; }
+
+/* Filter bar */
+.filter-bar { display: flex; align-items: center; gap: 12px; margin-bottom: 1.5rem; flex-wrap: wrap; }
+.filter-bar select { padding: 6px 12px; border-radius: 6px; border: 1px solid var(--brd2); background: var(--bg2); color: var(--txt); font-size: 12px; font-family: 'IBM Plex Mono', monospace; cursor: pointer; }
+.filter-bar select:focus { outline: 1px solid var(--accent); }
+.filter-label { font-size: 11px; color: var(--txt3); font-family: 'IBM Plex Mono', monospace; text-transform: uppercase; letter-spacing: 0.04em; }
+
 /* Alerts page */
 .alerts-list { padding: 0 20px 20px; }
 .alert-item { display: flex; align-items: flex-start; gap: 12px; padding: 14px 0; border-bottom: 1px solid var(--brd); }
@@ -138,6 +158,7 @@ tr:hover td { background: var(--bg3); }
   .layout { grid-template-columns: 1fr; }
   .sidebar { display: none; }
   .metrics-grid { grid-template-columns: repeat(2,1fr); }
+  .cat-grid { grid-template-columns: repeat(2, 1fr); }
 }
 </style>
 </head>
@@ -150,6 +171,10 @@ tr:hover td { background: var(--bg3); }
     <div class="nav-item active" onclick="showPage('overview')" id="nav-overview">
       <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
       resumen
+    </div>
+    <div class="nav-item" onclick="showPage('categories')" id="nav-categories">
+      <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 4h12M2 8h8M2 12h10"/></svg>
+      categorías
     </div>
     <div class="nav-item" onclick="showPage('opportunities')" id="nav-opportunities">
       <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6"/><path d="M8 5v3l2 2"/></svg>
@@ -194,9 +219,9 @@ tr:hover td { background: var(--bg3); }
           <div class="metric-sub">enviadas (real)</div>
         </div>
         <div class="metric" style="--accent-color: var(--amber)">
-          <div class="metric-label">con retail</div>
-          <div class="metric-value" id="m-retail">—</div>
-          <div class="metric-sub" id="m-retail-pct">del total</div>
+          <div class="metric-label">categorizados</div>
+          <div class="metric-value" id="m-categorized">—</div>
+          <div class="metric-sub" id="m-cat-pct">del total</div>
         </div>
       </div>
 
@@ -208,7 +233,7 @@ tr:hover td { background: var(--bg3); }
         <div class="tbl-wrap">
           <table>
             <thead><tr>
-              <th>lote</th><th>título</th><th>subasta</th>
+              <th>lote</th><th>título</th><th>categoría</th><th>subasta</th>
               <th>min bid</th><th>retail</th><th>ratio</th>
               <th>tiempo</th><th>condición</th><th></th>
             </tr></thead>
@@ -226,6 +251,36 @@ tr:hover td { background: var(--bg3); }
       </div>
     </div>
 
+    <!-- Categories -->
+    <div class="page" id="page-categories">
+      <div class="page-header">
+        <div>
+          <div class="page-title">categorías</div>
+          <div class="page-sub mono">resumen por tipo de producto</div>
+        </div>
+        <button class="refresh-btn" onclick="loadCategories()">↺ actualizar</button>
+      </div>
+
+      <div class="cat-grid" id="cat-grid"></div>
+
+      <div class="card" id="cat-opps-card" style="display:none;">
+        <div class="card-header">
+          <span class="card-title" id="cat-opps-title">oportunidades</span>
+          <span class="card-meta" id="cat-opps-count">—</span>
+        </div>
+        <div class="tbl-wrap">
+          <table>
+            <thead><tr>
+              <th>lote</th><th>título</th><th>subasta</th>
+              <th>min bid</th><th>retail</th><th>ratio</th>
+              <th>tiempo</th><th>condición</th><th></th>
+            </tr></thead>
+            <tbody id="cat-opps-body"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
     <!-- Opportunities -->
     <div class="page" id="page-opportunities">
       <div class="page-header">
@@ -235,6 +290,12 @@ tr:hover td { background: var(--bg3); }
         </div>
         <button class="refresh-btn" onclick="loadOpportunities()">↺ actualizar</button>
       </div>
+      <div class="filter-bar">
+        <span class="filter-label">filtrar por categoría:</span>
+        <select id="opp-cat-filter" onchange="loadOpportunities()">
+          <option value="">todas</option>
+        </select>
+      </div>
       <div class="card">
         <div class="card-header">
           <span class="card-title">ranking por ratio</span>
@@ -243,7 +304,7 @@ tr:hover td { background: var(--bg3); }
         <div class="tbl-wrap">
           <table>
             <thead><tr>
-              <th>lote</th><th>título</th><th>subasta</th>
+              <th>lote</th><th>título</th><th>categoría</th><th>subasta</th>
               <th>min bid</th><th>retail</th><th>ratio</th>
               <th>tiempo</th><th>condición</th><th></th>
             </tr></thead>
@@ -284,13 +345,20 @@ tr:hover td { background: var(--bg3); }
 </div>
 
 <script>
-const API = '';
+// API base URL — se configura automáticamente:
+//   · Cloudflare Pages (prod): apunta al servidor Flask via dominio
+//   · Desarrollo local:        mismo origen (cadena vacía)
+const API = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+  ? ''                                              // local: mismo origen
+  : 'https://auctionbot.luisaguilaraguila.com';    // Pages: API remota
+let categoriesData = [];
 
 function showPage(name) {
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
   document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
   document.getElementById('page-' + name).classList.add('active');
   document.getElementById('nav-' + name).classList.add('active');
+  if (name === 'categories') loadCategories();
 }
 
 function toggleTheme() {
@@ -298,6 +366,11 @@ function toggleTheme() {
   const isDark = html.getAttribute('data-theme') === 'dark';
   html.setAttribute('data-theme', isDark ? 'light' : 'dark');
   document.getElementById('theme-btn').textContent = isDark ? '◐ modo oscuro' : '◐ modo claro';
+}
+
+function catBadge(cat) {
+  if (!cat) return '';
+  return '<span class="badge badge-purple" style="font-size:10px;">' + cat + '</span>';
 }
 
 function condBadge(c) {
@@ -334,13 +407,14 @@ function fmtDuration(start, end) {
   return s < 60 ? s + 's' : Math.floor(s/60) + 'm ' + (s%60) + 's';
 }
 
-function oppRows(data) {
-  if (!data.length) return '<tr><td colspan="9" class="empty">sin oportunidades activas</td></tr>';
+function oppRows(data, showCat = true) {
+  if (!data.length) return '<tr><td colspan="' + (showCat ? 10 : 9) + '" class="empty">sin oportunidades activas</td></tr>';
   const maxR = Math.max(...data.map(o => o.ratio || 0));
   return data.map(o => `
     <tr>
       <td class="td-mono">${o.lot_number}</td>
       <td class="td-title" title="${o.title}">${o.title}</td>
+      ${showCat ? '<td>' + catBadge(o.category) + '</td>' : ''}
       <td class="td-muted td-mono" style="font-size:11px;">${o.auction_title || o.auction_id}</td>
       <td class="td-mono">$${(o.min_bid||0).toFixed(2)}</td>
       <td class="td-mono">$${o.retail_price}</td>
@@ -381,9 +455,9 @@ async function loadStats() {
     document.getElementById('m-runs').textContent   = s.total_runs.toLocaleString();
     document.getElementById('m-items').textContent  = s.total_items.toLocaleString();
     document.getElementById('m-alerts').textContent = s.total_alerts.toLocaleString();
-    document.getElementById('m-retail').textContent = s.with_retail.toLocaleString();
-    const pct = s.total_items ? Math.round(s.with_retail / s.total_items * 100) : 0;
-    document.getElementById('m-retail-pct').textContent = pct + '% del total';
+    document.getElementById('m-categorized').textContent = (s.categorized || 0).toLocaleString();
+    const pct = s.total_items ? Math.round((s.categorized || 0) / s.total_items * 100) : 0;
+    document.getElementById('m-cat-pct').textContent = pct + '% del total';
     document.getElementById('last-updated').textContent =
       'actualizado: ' + new Date().toLocaleTimeString('es-MX');
   } catch(e) {
@@ -393,16 +467,68 @@ async function loadStats() {
 
 async function loadOpportunities() {
   try {
-    const data = await fetch(API + '/api/opportunities').then(r => r.json());
-    const rows = oppRows(data);
-    document.getElementById('opps-body-overview').innerHTML = rows;
+    const catFilter = document.getElementById('opp-cat-filter').value;
+    const url = catFilter
+      ? API + '/api/opportunities?category=' + encodeURIComponent(catFilter)
+      : API + '/api/opportunities';
+    const data = await fetch(url).then(r => r.json());
+    const rows = oppRows(data, true);
+    document.getElementById('opps-body-overview').innerHTML = oppRows(data, true);
     document.getElementById('opps-body-full').innerHTML = rows;
     document.getElementById('opps-hdr').textContent = data.length + ' items activos';
-    document.getElementById('opps-full-hdr').textContent = data.length + ' items';
+    document.getElementById('opps-full-hdr').textContent = data.length + ' items' + (catFilter ? ' — ' + catFilter : '');
   } catch(e) {
-    const msg = '<tr><td colspan="9" class="empty">error cargando datos — verifica que el servidor está corriendo</td></tr>';
+    const msg = '<tr><td colspan="10" class="empty">error cargando datos — verifica que el servidor está corriendo</td></tr>';
     document.getElementById('opps-body-overview').innerHTML = msg;
     document.getElementById('opps-body-full').innerHTML = msg;
+  }
+}
+
+async function loadCategories() {
+  try {
+    categoriesData = await fetch(API + '/api/categories').then(r => r.json());
+    const grid = document.getElementById('cat-grid');
+    grid.innerHTML = categoriesData.map(c => `
+      <div class="cat-card" onclick="filterByCategory('${c.category}')" id="cat-${c.category.replace(/\s+/g,'-')}">
+        <span class="cat-icon">${c.icon}</span>
+        <div class="cat-name">${c.category}</div>
+        <div class="cat-stats">
+          <div class="cat-stat"><strong>${c.total_items.toLocaleString()}</strong>items</div>
+          <div class="cat-stat"><strong>${c.active_opps || 0}</strong>opps activas</div>
+        </div>
+      </div>
+    `).join('');
+
+    // Populate filter dropdown on opportunities page
+    const select = document.getElementById('opp-cat-filter');
+    const currentVal = select.value;
+    select.innerHTML = '<option value="">todas</option>';
+    categoriesData.forEach(c => {
+      select.innerHTML += `<option value="${c.category}" ${c.category === currentVal ? 'selected' : ''}>${c.icon} ${c.category} (${c.total_items.toLocaleString()})</option>`;
+    });
+  } catch(e) {
+    document.getElementById('cat-grid').innerHTML = '<div class="empty">error cargando categorías</div>';
+    console.error('categories error', e);
+  }
+}
+
+async function filterByCategory(cat) {
+  // Highlight selected card
+  document.querySelectorAll('.cat-card').forEach(c => c.classList.remove('active'));
+  const cardId = 'cat-' + cat.replace(/\s+/g, '-');
+  const card = document.getElementById(cardId);
+  if (card) card.classList.add('active');
+
+  // Load opportunities for this category
+  try {
+    const data = await fetch(API + '/api/opportunities?category=' + encodeURIComponent(cat)).then(r => r.json());
+    const oppsCard = document.getElementById('cat-opps-card');
+    oppsCard.style.display = 'block';
+    document.getElementById('cat-opps-title').textContent = 'oportunidades — ' + cat;
+    document.getElementById('cat-opps-count').textContent = data.length + ' items';
+    document.getElementById('cat-opps-body').innerHTML = oppRows(data, false);
+  } catch(e) {
+    console.error('cat opportunities error', e);
   }
 }
 
@@ -431,7 +557,7 @@ async function loadRuns() {
 }
 
 async function loadAll() {
-  await Promise.all([loadStats(), loadOpportunities(), loadRuns()]);
+  await Promise.all([loadStats(), loadOpportunities(), loadRuns(), loadCategories()]);
 }
 
 loadAll();

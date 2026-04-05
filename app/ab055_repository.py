@@ -17,6 +17,9 @@ from ab055_sqlite import (
     get_item_price_history,
     get_opportunities_with_retail,
     get_db_stats,
+    get_category_stats,
+    get_opportunities_by_category,
+    backfill_categories,
 )
 # Cuando migres a Supabase, reemplaza por:
 # from ab055_supabase import (
@@ -116,6 +119,18 @@ class AuctionBotDB:
     def get_top_opportunities(self, min_ratio: float = 5.0) -> list:
         """Items con mejor ratio retail_price / min_bid."""
         return get_opportunities_with_retail(min_ratio)
+
+    def get_categories(self) -> list:
+        """Conteo de items y oportunidades por categoría."""
+        return get_category_stats()
+
+    def get_category_opportunities(self, category: str) -> list:
+        """Oportunidades activas filtradas por categoría."""
+        return get_opportunities_by_category(category)
+
+    def backfill_item_categories(self, categorize_fn) -> int:
+        """Categoriza items existentes sin categoría."""
+        return backfill_categories(categorize_fn)
 
 
 # ─── CLI de diagnóstico ──────────────────────────────────────────────────────

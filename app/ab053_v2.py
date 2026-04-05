@@ -27,6 +27,7 @@ from playwright.async_api import async_playwright, Response
 
 # ── DB (nuevo en v2) ──────────────────────────────────────────────────────────
 from ab055_repository import AuctionBotDB
+from ab057_categorizer import categorize_item
 
 
 # ──────────────────────────────────────────────
@@ -100,6 +101,10 @@ def format_alert(item: dict) -> str:
     retail = item.get("retail_price")
     retail_line = f"\n🏷 <b>Retail:</b> ${retail:.0f}" if retail else ""
 
+    # Mostrar categoría (nuevo en ab057)
+    cat = item.get("category", "")
+    cat_line = f"\n📌 <b>Categoría:</b> {cat}" if cat else ""
+
     return (
         f"🎯 <b>OPORTUNIDAD — BID $0.00</b>\n"
         f"\n"
@@ -109,7 +114,8 @@ def format_alert(item: dict) -> str:
         f"{retail_line}\n"
         f"⏰ <b>Cierra en:</b> {tiempo} ({item['end_time_display']})\n"
         f"🏷 <b>Subasta:</b> {item.get('auction_title', item['auction_id'])}"
-        f"{condition_line}\n"
+        f"{condition_line}"
+        f"{cat_line}\n"
         f"\n"
         f"🔗 <a href=\"{item['url']}\">Ver item</a>"
     )
@@ -206,6 +212,7 @@ def extract_items_from_page(page_data: dict, auction_id: str) -> list[dict]:
             "url":                     item_url,
             "auction_title":           str(raw.get("auction_title", "")),
             "is_opportunity":          current_bid == 0.0,
+            "category":               categorize_item(title, str(raw.get("auction_title", ""))),
             # Campos para la DB (mapeo explícito)
             "id":                      str(raw.get("id", "")),
             "condition_text":          parse_condition_from_extra_info(raw.get("extra_info", "")),

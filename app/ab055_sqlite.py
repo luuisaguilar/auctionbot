@@ -53,7 +53,8 @@ def init_db():
                 end_time        INTEGER,
                 condition_text  TEXT,
                 item_url        TEXT,
-                is_opportunity  INTEGER DEFAULT 0
+                is_opportunity  INTEGER DEFAULT 0,
+                category        TEXT
             );
 
             CREATE TABLE IF NOT EXISTS alerts (
@@ -74,7 +75,15 @@ def init_db():
             CREATE INDEX IF NOT EXISTS idx_items_scraped_at  ON items(scraped_at);
             CREATE INDEX IF NOT EXISTS idx_alerts_item_id    ON alerts(item_id);
             CREATE INDEX IF NOT EXISTS idx_alerts_sent_at    ON alerts(sent_at);
+            CREATE INDEX IF NOT EXISTS idx_items_category    ON items(category);
         """)
+
+    # Migración: agregar columna category si no existe (DB creadas antes de ab057)
+    try:
+        conn.execute("ALTER TABLE items ADD COLUMN category TEXT")
+        conn.commit()
+    except sqlite3.OperationalError:
+        pass  # columna ya existe
     conn.close()
     print(f"✓ DB inicializada: {DB_PATH}")
 
@@ -125,6 +134,7 @@ def insert_items_bulk(run_id: int, items: list[dict]):
     """
     Inserta múltiples items de una corrida.
     Cada dict debe tener las claves del API getitems + auction_title.
+    Acepta campo 'category' opcional (de ab057_categorizer).
     """
     if not items:
         return
@@ -161,7 +171,8 @@ def insert_items_bulk(run_id: int, items: list[dict]):
             item.get('end_time'),
             item.get('condition_text', ''),
             item.get('item_url', ''),
-            1 if current_bid == 0.0 else 0
+            1 if current_bid == 0.0 else 0,
+            item.get('category'),
         ))
 
     conn = get_connection()
@@ -170,8 +181,9 @@ def insert_items_bulk(run_id: int, items: list[dict]):
             INSERT INTO items (
                 run_id, scraped_at, auction_id, auction_title,
                 item_id, lot_number, title, current_bid, min_bid,
-                retail_price, end_time, condition_text, item_url, is_opportunity
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                retail_price, end_time, condition_text, item_url,
+                is_opportunity, category
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, rows)
     conn.close()
 
@@ -273,8 +285,93 @@ def get_db_stats() -> dict:
     stats['total_alerts'] = conn.execute("SELECT COUNT(*) FROM alerts").fetchone()[0]
     stats['opportunities']= conn.execute("SELECT COUNT(*) FROM items WHERE is_opportunity=1").fetchone()[0]
     stats['with_retail']  = conn.execute("SELECT COUNT(*) FROM items WHERE retail_price IS NOT NULL").fetchone()[0]
+    stats['categorized']  = conn.execute("SELECT COUNT(*) FROM items WHERE category IS NOT NULL").fetchone()[0]
     conn.close()
     return stats
+
+
+def get_category_stats() -> list:
+    """Retorna conteo de items y oportunidades activas por categoría."""
+    conn = get_connection()
+    from datetime import timezone
+    now_unix = datetime.now(timezone.utc).timestamp()
+    rows = conn.execute("""
+        SELECT
+            COALESCE(category, 'Otro') as category,
+            COUNT(*) as total_items,
+            SUM(CASE WHEN is_opportunity = 1 THEN 1 ELSE 0 END) as total_opps,
+            SUM(CASE WHEN is_opportunity = 1 AND end_time > ? THEN 1 ELSE 0 END) as active_opps
+        FROM items
+        GROUP BY category
+        ORDER BY total_items DESC
+    """, (now_unix,)).fetchall()
+    conn.close()
+    return [dict(r) for r in rows]
+
+
+def get_opportunities_by_category(category: str) -> list:
+    """Retorna oportunidades activas filtradas por categoría."""
+    conn = get_connection()
+    from datetime import timezone
+    now_unix = datetime.now(timezone.utc).timestamp()
+    rows = conn.execute("""
+        SELECT
+            i.item_id, i.lot_number, i.title, i.auction_id,
+            i.auction_title, i.min_bid, i.retail_price,
+            ROUND(i.retail_price / NULLIF(i.min_bid, 0), 1) AS ratio,
+            i.end_time, i.condition_text, i.item_url, i.category,
+            MAX(i.scraped_at) AS last_seen
+        FROM items i
+        WHERE i.is_opportunity = 1
+          AND i.category = ?
+          AND i.end_time > ?
+        GROUP BY i.item_id, i.auction_id
+        ORDER BY ratio DESC
+        LIMIT 100
+    """, (category, now_unix)).fetchall()
+    conn.close()
+    result = []
+    for r in rows:
+        d = dict(r)
+        if d["end_time"]:
+            secs = max(0, int(d["end_time"] - now_unix))
+            d["minutes_remaining"] = secs // 60
+        else:
+            d["minutes_remaining"] = None
+        result.append(d)
+    return result
+
+
+def backfill_categories(categorize_fn) -> int:
+    """
+    Categoriza items existentes que tengan category IS NULL.
+    Recibe la función categorize_item como parámetro para evitar import circular.
+    Retorna el número de items actualizados.
+    """
+    conn = get_connection()
+    rows = conn.execute(
+        "SELECT DISTINCT title, auction_title FROM items WHERE category IS NULL"
+    ).fetchall()
+
+    if not rows:
+        conn.close()
+        return 0
+
+    batch = []
+    for row in rows:
+        cat = categorize_fn(row["title"], row["auction_title"])
+        batch.append((cat, row["title"], row["auction_title"]))
+
+    with conn:
+        for cat, title, auction_title in batch:
+            conn.execute(
+                "UPDATE items SET category = ? WHERE title = ? AND auction_title = ?",
+                (cat, title, auction_title)
+            )
+
+    updated = conn.execute("SELECT changes()").fetchone()[0]
+    conn.close()
+    return len(batch)
 
 
 # ─── CLI rápido para verificar ───────────────────────────────────────────────

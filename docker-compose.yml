@@ -1,0 +1,93 @@
+# ── AuctionBot — docker-compose.yml ──────────────────────────────────────────
+#
+# Servicios:
+#   dashboard   - Flask API  (puerto 8080, interno)
+#   scheduler   - Playwright scraper + alertas Telegram
+#   tunnel      - Cloudflare Tunnel → expone dashboard al mundo
+#
+# Uso:
+#   cp .env.example .env && nano .env   # configurar secrets
+#   docker compose up -d --build        # primera vez
+#   docker compose up -d                # actualizaciones sin rebuild
+#   docker compose logs -f dashboard    # ver logs
+#   docker compose restart dashboard    # reiniciar un servicio
+
+name: auctionbot
+
+services:
+
+  # ── API Dashboard (Flask) ─────────────────────────────────────────────────
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: auctionbot-dashboard
+    restart: always
+    ports:
+      - "127.0.0.1:8080:8080"   # Solo local — Cloudflare Tunnel lo expone
+    volumes:
+      - ./data:/opt/auctionbot/data:rw          # DB SQLite
+      - ./dashboard:/opt/auctionbot/dashboard:ro # HTML estático
+    environment:
+      AUCTIONBOT_DB_PATH: /opt/auctionbot/data/auctionbot.db
+      AUCTIONBOT_STATIC_DIR: /opt/auctionbot/dashboard
+    healthcheck:
+      test: ["CMD", "python", "-c",
+             "import urllib.request; urllib.request.urlopen('http://localhost:8080/api/stats')"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  # ── Scheduler (Scraper + Alertas Telegram) ───────────────────────────────
+  scheduler:
+    build:
+      context: .
+      dockerfile: Dockerfile.scraper
+    container_name: auctionbot-scheduler
+    restart: always
+    volumes:
+      - ./data:/opt/auctionbot/data:rw
+    env_file: .env
+    environment:
+      AUCTIONBOT_DB_PATH: /opt/auctionbot/data/auctionbot.db
+    # Chromium necesita los siguientes flags en contenedor
+    security_opt:
+      - seccomp:unconfined   # requerido para Chromium
+    shm_size: "256m"         # shared memory para Chromium
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "20m"
+        max-file: "3"
+
+  # ── Cloudflare Tunnel ─────────────────────────────────────────────────────
+  tunnel:
+    image: cloudflare/cloudflared:latest
+    container_name: auctionbot-tunnel
+    restart: always
+    command: tunnel run
+    environment:
+      TUNNEL_TOKEN: ${TUNNEL_TOKEN}
+    depends_on:
+      dashboard:
+        condition: service_healthy
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "5m"
+        max-file: "2"
+
+# ── Volúmenes declarados (opcional, para docker volume inspect) ───────────
+volumes:
+  data:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ./data
