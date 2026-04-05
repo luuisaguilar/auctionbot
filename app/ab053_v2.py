@@ -24,10 +24,13 @@ import urllib.error
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+from env_loader import load_local_env
 from playwright.async_api import async_playwright, Response
 
 # ── DB (nuevo en v2) ──────────────────────────────────────────────────────────
 from ab055_repository import AuctionBotDB
+
+load_local_env()
 
 
 # ──────────────────────────────────────────────

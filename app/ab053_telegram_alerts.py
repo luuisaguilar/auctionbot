@@ -32,7 +32,10 @@ import urllib.error
 from datetime import datetime, timezone
 from pathlib import Path
 
+from env_loader import load_local_env
 from playwright.async_api import async_playwright, Response
+
+load_local_env()
 
 
 # ──────────────────────────────────────────────

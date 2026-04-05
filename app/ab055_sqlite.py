@@ -10,6 +10,10 @@ import re
 from datetime import datetime
 from typing import Optional
 
+from env_loader import load_local_env
+
+load_local_env()
+
 DB_PATH = os.environ.get("AUCTIONBOT_DB_PATH", "/opt/auctionbot/data/auctionbot.db")
 
 
