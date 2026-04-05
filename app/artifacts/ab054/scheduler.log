@@ -1,0 +1,1832 @@
+[2026-03-22 14:42:44] Scheduler iniciado — intervalo=30min, max_minutes=60
+[2026-03-22 14:42:44] --- Corrida #1 iniciando ---
+[2026-03-22 14:46:01] ✓ Corrida #1 [3m 16s] — items=991 | opp=? | enviadas=46 | dedup=21
+[2026-03-22 14:46:01] Próxima corrida: 15:16:01 (en 30 minutos)
+[2026-03-22 15:16:01] --- Corrida #2 iniciando ---
+[2026-03-22 15:20:29] ✓ Corrida #2 [4m 27s] — items=991 | opp=? | enviadas=119 | dedup=67
+[2026-03-22 15:20:29] Próxima corrida: 15:50:29 (en 30 minutos)
+[2026-03-22 15:50:29] --- Corrida #3 iniciando ---
+[2026-03-22 15:54:33] ✓ Corrida #3 [4m 4s] — items=991 | opp=? | enviadas=95 | dedup=184
+[2026-03-22 15:54:33] Próxima corrida: 16:24:33 (en 30 minutos)
+[2026-03-22 15:56:12] Scheduler iniciado — intervalo=30min, max_minutes=60
+[2026-03-22 15:56:12] --- Corrida #1 iniciando ---
+[2026-03-22 15:58:25] Scheduler iniciado — intervalo=30min, max_minutes=60
+[2026-03-22 15:58:25] --- Corrida #1 iniciando ---
+[2026-03-22 15:59:31] Scheduler iniciado — intervalo=30min, max_minutes=20
+[2026-03-22 15:59:31] --- Corrida #1 iniciando ---
+[2026-03-22 16:03:18] Scheduler iniciado — intervalo=30min, max_minutes=20
+[2026-03-22 16:03:18] --- Corrida #1 iniciando ---
+[2026-03-22 16:06:05] ✓ Corrida #1 [2m 47s] — items=985 | opp=? | enviadas=15 | dedup=0
+[2026-03-22 16:06:05] Próxima corrida: 16:36:05 (en 30 minutos)
+[2026-03-22 16:36:05] --- Corrida #2 iniciando ---
+[2026-03-22 16:38:52] ✓ Corrida #2 [2m 47s] — items=917 | opp=? | enviadas=15 | dedup=0
+[2026-03-22 16:38:52] Próxima corrida: 17:08:52 (en 30 minutos)
+[2026-03-22 17:08:52] --- Corrida #3 iniciando ---
+[2026-03-22 17:11:23] ✓ Corrida #3 [2m 30s] — items=852 | opp=? | enviadas=10 | dedup=0
+[2026-03-22 17:11:23] Próxima corrida: 17:41:23 (en 30 minutos)
+[2026-03-22 17:41:23] --- Corrida #4 iniciando ---
+[2026-03-22 17:43:39] ✓ Corrida #4 [2m 15s] — items=789 | opp=? | enviadas=3 | dedup=0
+[2026-03-22 17:43:39] Próxima corrida: 18:13:39 (en 30 minutos)
+[2026-03-22 18:13:39] --- Corrida #5 iniciando ---
+[2026-03-22 18:15:54] ✓ Corrida #5 [2m 15s] — items=753 | opp=? | enviadas=0 | dedup=0
+[2026-03-22 18:15:54] Próxima corrida: 18:45:54 (en 30 minutos)
+[2026-03-22 18:45:54] --- Corrida #6 iniciando ---
+[2026-03-22 18:47:58] ✓ Corrida #6 [2m 3s] — items=616 | opp=? | enviadas=0 | dedup=0
+[2026-03-22 18:47:58] Próxima corrida: 19:17:58 (en 30 minutos)
+[2026-03-22 19:17:58] --- Corrida #7 iniciando ---
+[2026-03-22 19:20:01] ✓ Corrida #7 [2m 3s] — items=600 | opp=? | enviadas=0 | dedup=0
+[2026-03-22 19:20:01] Próxima corrida: 19:50:01 (en 30 minutos)
+[2026-03-22 19:50:01] --- Corrida #8 iniciando ---
+[2026-03-22 19:51:52] ✓ Corrida #8 [1m 51s] — items=505 | opp=? | enviadas=0 | dedup=0
+[2026-03-22 19:51:52] Próxima corrida: 20:21:52 (en 30 minutos)
+[2026-03-22 20:21:52] --- Corrida #9 iniciando ---
+[2026-03-22 20:23:39] ✓ Corrida #9 [1m 47s] — items=425 | opp=? | enviadas=0 | dedup=0
+[2026-03-22 20:23:39] Próxima corrida: 20:53:39 (en 30 minutos)
+[2026-03-22 20:53:39] --- Corrida #10 iniciando ---
+[2026-03-22 20:55:26] ✓ Corrida #10 [1m 46s] — items=411 | opp=? | enviadas=0 | dedup=0
+[2026-03-22 20:55:26] Próxima corrida: 21:25:26 (en 30 minutos)
+[2026-03-22 21:25:26] --- Corrida #11 iniciando ---
+[2026-03-22 21:27:09] ✓ Corrida #11 [1m 42s] — items=425 | opp=? | enviadas=0 | dedup=0
+[2026-03-22 21:27:09] Próxima corrida: 21:57:09 (en 30 minutos)
+[2026-03-22 21:57:09] --- Corrida #12 iniciando ---
+[2026-03-22 21:59:04] ✓ Corrida #12 [1m 55s] — items=579 | opp=? | enviadas=0 | dedup=0
+[2026-03-22 21:59:04] Próxima corrida: 22:29:04 (en 30 minutos)
+[2026-03-22 22:29:04] --- Corrida #13 iniciando ---
+[2026-03-22 22:30:59] ✓ Corrida #13 [1m 55s] — items=579 | opp=? | enviadas=0 | dedup=0
+[2026-03-22 22:30:59] Próxima corrida: 23:00:59 (en 30 minutos)
+[2026-03-22 23:01:00] --- Corrida #14 iniciando ---
+[2026-03-22 23:03:12] ✓ Corrida #14 [2m 12s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-22 23:03:12] Próxima corrida: 23:33:12 (en 30 minutos)
+[2026-03-22 23:33:12] --- Corrida #15 iniciando ---
+[2026-03-22 23:35:23] ✓ Corrida #15 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-22 23:35:23] Próxima corrida: 00:05:23 (en 30 minutos)
+[2026-03-23 00:05:24] --- Corrida #16 iniciando ---
+[2026-03-23 00:07:35] ✓ Corrida #16 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 00:07:35] Próxima corrida: 00:37:35 (en 30 minutos)
+[2026-03-23 00:37:35] --- Corrida #17 iniciando ---
+[2026-03-23 00:39:47] ✓ Corrida #17 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 00:39:47] Próxima corrida: 01:09:47 (en 30 minutos)
+[2026-03-23 01:09:47] --- Corrida #18 iniciando ---
+[2026-03-23 01:11:59] ✓ Corrida #18 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 01:11:59] Próxima corrida: 01:41:59 (en 30 minutos)
+[2026-03-23 01:41:59] --- Corrida #19 iniciando ---
+[2026-03-23 01:44:11] ✓ Corrida #19 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 01:44:11] Próxima corrida: 02:14:11 (en 30 minutos)
+[2026-03-23 02:14:11] --- Corrida #20 iniciando ---
+[2026-03-23 02:16:22] ✓ Corrida #20 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 02:16:22] Próxima corrida: 02:46:22 (en 30 minutos)
+[2026-03-23 02:46:22] --- Corrida #21 iniciando ---
+[2026-03-23 02:48:34] ✓ Corrida #21 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 02:48:34] Próxima corrida: 03:18:34 (en 30 minutos)
+[2026-03-23 03:18:34] --- Corrida #22 iniciando ---
+[2026-03-23 03:20:46] ✓ Corrida #22 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 03:20:46] Próxima corrida: 03:50:46 (en 30 minutos)
+[2026-03-23 03:50:46] --- Corrida #23 iniciando ---
+[2026-03-23 03:52:58] ✓ Corrida #23 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 03:52:58] Próxima corrida: 04:22:58 (en 30 minutos)
+[2026-03-23 04:22:58] --- Corrida #24 iniciando ---
+[2026-03-23 04:25:10] ✓ Corrida #24 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 04:25:10] Próxima corrida: 04:55:10 (en 30 minutos)
+[2026-03-23 04:55:10] --- Corrida #25 iniciando ---
+[2026-03-23 04:57:22] ✓ Corrida #25 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 04:57:22] Próxima corrida: 05:27:22 (en 30 minutos)
+[2026-03-23 05:27:22] --- Corrida #26 iniciando ---
+[2026-03-23 05:29:33] ✓ Corrida #26 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 05:29:33] Próxima corrida: 05:59:33 (en 30 minutos)
+[2026-03-23 05:59:33] --- Corrida #27 iniciando ---
+[2026-03-23 06:01:45] ✓ Corrida #27 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 06:01:45] Próxima corrida: 06:31:45 (en 30 minutos)
+[2026-03-23 06:31:45] --- Corrida #28 iniciando ---
+[2026-03-23 06:33:56] ✓ Corrida #28 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 06:33:56] Próxima corrida: 07:03:56 (en 30 minutos)
+[2026-03-23 07:03:57] --- Corrida #29 iniciando ---
+[2026-03-23 07:06:08] ✓ Corrida #29 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 07:06:08] Próxima corrida: 07:36:08 (en 30 minutos)
+[2026-03-23 07:36:08] --- Corrida #30 iniciando ---
+[2026-03-23 07:38:20] ✓ Corrida #30 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 07:38:20] Próxima corrida: 08:08:20 (en 30 minutos)
+[2026-03-23 08:08:20] --- Corrida #31 iniciando ---
+[2026-03-23 08:10:32] ✓ Corrida #31 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 08:10:32] Próxima corrida: 08:40:32 (en 30 minutos)
+[2026-03-23 08:40:32] --- Corrida #32 iniciando ---
+[2026-03-23 08:42:44] ✓ Corrida #32 [2m 11s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 08:42:44] Próxima corrida: 09:12:44 (en 30 minutos)
+[2026-03-23 09:12:44] --- Corrida #33 iniciando ---
+[2026-03-23 09:14:56] ✓ Corrida #33 [2m 12s] — items=779 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 09:14:56] Próxima corrida: 09:44:56 (en 30 minutos)
+[2026-03-23 09:44:56] --- Corrida #34 iniciando ---
+[2026-03-23 09:47:08] ✓ Corrida #34 [2m 11s] — items=778 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 09:47:08] Próxima corrida: 10:17:08 (en 30 minutos)
+[2026-03-23 10:17:08] --- Corrida #35 iniciando ---
+[2026-03-23 10:19:20] ✓ Corrida #35 [2m 12s] — items=777 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 10:19:20] Próxima corrida: 10:49:20 (en 30 minutos)
+[2026-03-23 10:49:20] --- Corrida #36 iniciando ---
+[2026-03-23 10:51:32] ✓ Corrida #36 [2m 11s] — items=777 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 10:51:32] Próxima corrida: 11:21:32 (en 30 minutos)
+[2026-03-23 11:21:32] --- Corrida #37 iniciando ---
+[2026-03-23 11:23:44] ✓ Corrida #37 [2m 11s] — items=777 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 11:23:44] Próxima corrida: 11:53:44 (en 30 minutos)
+[2026-03-23 11:53:44] --- Corrida #38 iniciando ---
+[2026-03-23 11:55:56] ✓ Corrida #38 [2m 12s] — items=777 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 11:55:56] Próxima corrida: 12:25:56 (en 30 minutos)
+[2026-03-23 12:25:56] --- Corrida #39 iniciando ---
+[2026-03-23 12:28:08] ✓ Corrida #39 [2m 12s] — items=777 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 12:28:08] Próxima corrida: 12:58:08 (en 30 minutos)
+[2026-03-23 12:58:08] --- Corrida #40 iniciando ---
+[2026-03-23 13:00:20] ✓ Corrida #40 [2m 11s] — items=777 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 13:00:20] Próxima corrida: 13:30:20 (en 30 minutos)
+[2026-03-23 13:30:20] --- Corrida #41 iniciando ---
+[2026-03-23 13:32:37] ✓ Corrida #41 [2m 17s] — items=777 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 13:32:37] Próxima corrida: 14:02:37 (en 30 minutos)
+[2026-03-23 14:02:37] --- Corrida #42 iniciando ---
+[2026-03-23 14:04:49] ✓ Corrida #42 [2m 11s] — items=777 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 14:04:49] Próxima corrida: 14:34:49 (en 30 minutos)
+[2026-03-23 14:34:49] --- Corrida #43 iniciando ---
+[2026-03-23 14:37:01] ✓ Corrida #43 [2m 12s] — items=777 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 14:37:01] Próxima corrida: 15:07:01 (en 30 minutos)
+[2026-03-23 15:07:01] --- Corrida #44 iniciando ---
+[2026-03-23 15:09:13] ✓ Corrida #44 [2m 12s] — items=777 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 15:09:13] Próxima corrida: 15:39:13 (en 30 minutos)
+[2026-03-23 15:39:13] --- Corrida #45 iniciando ---
+[2026-03-23 15:41:25] ✓ Corrida #45 [2m 12s] — items=777 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 15:41:25] Próxima corrida: 16:11:25 (en 30 minutos)
+[2026-03-23 16:11:25] --- Corrida #46 iniciando ---
+[2026-03-23 16:13:43] ✓ Corrida #46 [2m 17s] — items=777 | opp=? | enviadas=5 | dedup=0
+[2026-03-23 16:13:43] Próxima corrida: 16:43:43 (en 30 minutos)
+[2026-03-23 16:43:43] --- Corrida #47 iniciando ---
+[2026-03-23 16:45:55] ✓ Corrida #47 [2m 11s] — items=775 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 16:45:55] Próxima corrida: 17:15:55 (en 30 minutos)
+[2026-03-23 17:15:55] --- Corrida #48 iniciando ---
+[2026-03-23 17:18:21] ✓ Corrida #48 [2m 26s] — items=775 | opp=? | enviadas=14 | dedup=0
+[2026-03-23 17:18:21] Próxima corrida: 17:48:21 (en 30 minutos)
+[2026-03-23 17:48:21] --- Corrida #49 iniciando ---
+[2026-03-23 17:50:34] ✓ Corrida #49 [2m 12s] — items=775 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 17:50:34] Próxima corrida: 18:20:34 (en 30 minutos)
+[2026-03-23 18:20:34] --- Corrida #50 iniciando ---
+[2026-03-23 18:22:46] ✓ Corrida #50 [2m 11s] — items=775 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 18:22:46] Próxima corrida: 18:52:46 (en 30 minutos)
+[2026-03-23 18:52:46] --- Corrida #51 iniciando ---
+[2026-03-23 18:54:58] ✓ Corrida #51 [2m 11s] — items=775 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 18:54:58] Próxima corrida: 19:24:58 (en 30 minutos)
+[2026-03-23 19:24:58] --- Corrida #52 iniciando ---
+[2026-03-23 19:27:09] ✓ Corrida #52 [2m 11s] — items=775 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 19:27:09] Próxima corrida: 19:57:09 (en 30 minutos)
+[2026-03-23 19:57:09] --- Corrida #53 iniciando ---
+[2026-03-23 19:59:17] ✓ Corrida #53 [2m 7s] — items=751 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 19:59:17] Próxima corrida: 20:29:17 (en 30 minutos)
+[2026-03-23 20:29:17] --- Corrida #54 iniciando ---
+[2026-03-23 20:31:37] ✓ Corrida #54 [2m 19s] — items=801 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 20:31:37] Próxima corrida: 21:01:37 (en 30 minutos)
+[2026-03-23 21:01:37] --- Corrida #55 iniciando ---
+[2026-03-23 21:04:01] ✓ Corrida #55 [2m 24s] — items=850 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 21:04:01] Próxima corrida: 21:34:01 (en 30 minutos)
+[2026-03-23 21:34:01] --- Corrida #56 iniciando ---
+[2026-03-23 21:36:26] ✓ Corrida #56 [2m 24s] — items=850 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 21:36:26] Próxima corrida: 22:06:26 (en 30 minutos)
+[2026-03-23 22:06:26] --- Corrida #57 iniciando ---
+[2026-03-23 22:08:49] ✓ Corrida #57 [2m 23s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 22:08:49] Próxima corrida: 22:38:49 (en 30 minutos)
+[2026-03-23 22:38:50] --- Corrida #58 iniciando ---
+[2026-03-23 22:41:14] ✓ Corrida #58 [2m 24s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 22:41:14] Próxima corrida: 23:11:14 (en 30 minutos)
+[2026-03-23 23:11:14] --- Corrida #59 iniciando ---
+[2026-03-23 23:13:39] ✓ Corrida #59 [2m 24s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 23:13:39] Próxima corrida: 23:43:39 (en 30 minutos)
+[2026-03-23 23:43:39] --- Corrida #60 iniciando ---
+[2026-03-23 23:46:03] ✓ Corrida #60 [2m 24s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-23 23:46:03] Próxima corrida: 00:16:03 (en 30 minutos)
+[2026-03-24 00:16:03] --- Corrida #61 iniciando ---
+[2026-03-24 00:18:27] ✓ Corrida #61 [2m 24s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 00:18:27] Próxima corrida: 00:48:27 (en 30 minutos)
+[2026-03-24 00:48:27] --- Corrida #62 iniciando ---
+[2026-03-24 00:50:51] ✓ Corrida #62 [2m 23s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 00:50:51] Próxima corrida: 01:20:51 (en 30 minutos)
+[2026-03-24 01:20:51] --- Corrida #63 iniciando ---
+[2026-03-24 01:23:15] ✓ Corrida #63 [2m 24s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 01:23:15] Próxima corrida: 01:53:15 (en 30 minutos)
+[2026-03-24 01:53:15] --- Corrida #64 iniciando ---
+[2026-03-24 01:55:40] ✓ Corrida #64 [2m 24s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 01:55:40] Próxima corrida: 02:25:40 (en 30 minutos)
+[2026-03-24 02:25:40] --- Corrida #65 iniciando ---
+[2026-03-24 02:28:03] ✓ Corrida #65 [2m 23s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 02:28:03] Próxima corrida: 02:58:03 (en 30 minutos)
+[2026-03-24 02:58:04] --- Corrida #66 iniciando ---
+[2026-03-24 03:00:27] ✓ Corrida #66 [2m 23s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 03:00:27] Próxima corrida: 03:30:27 (en 30 minutos)
+[2026-03-24 03:30:28] --- Corrida #67 iniciando ---
+[2026-03-24 03:32:51] ✓ Corrida #67 [2m 23s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 03:32:51] Próxima corrida: 04:02:51 (en 30 minutos)
+[2026-03-24 04:02:51] --- Corrida #68 iniciando ---
+[2026-03-24 04:05:16] ✓ Corrida #68 [2m 24s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 04:05:16] Próxima corrida: 04:35:16 (en 30 minutos)
+[2026-03-24 04:35:16] --- Corrida #69 iniciando ---
+[2026-03-24 04:37:42] ✓ Corrida #69 [2m 26s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 04:37:42] Próxima corrida: 05:07:42 (en 30 minutos)
+[2026-03-24 05:07:42] --- Corrida #70 iniciando ---
+[2026-03-24 05:10:06] ✓ Corrida #70 [2m 24s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 05:10:06] Próxima corrida: 05:40:06 (en 30 minutos)
+[2026-03-24 05:40:06] --- Corrida #71 iniciando ---
+[2026-03-24 05:42:30] ✓ Corrida #71 [2m 23s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 05:42:30] Próxima corrida: 06:12:30 (en 30 minutos)
+[2026-03-24 06:12:30] --- Corrida #72 iniciando ---
+[2026-03-24 06:14:57] ✓ Corrida #72 [2m 26s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 06:14:57] Próxima corrida: 06:44:57 (en 30 minutos)
+[2026-03-24 06:44:57] --- Corrida #73 iniciando ---
+[2026-03-24 06:47:22] ✓ Corrida #73 [2m 24s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 06:47:22] Próxima corrida: 07:17:22 (en 30 minutos)
+[2026-03-24 07:17:22] --- Corrida #74 iniciando ---
+[2026-03-24 07:19:45] ✓ Corrida #74 [2m 23s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 07:19:45] Próxima corrida: 07:49:45 (en 30 minutos)
+[2026-03-24 07:49:45] --- Corrida #75 iniciando ---
+[2026-03-24 07:52:09] ✓ Corrida #75 [2m 23s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 07:52:09] Próxima corrida: 08:22:09 (en 30 minutos)
+[2026-03-24 08:22:09] --- Corrida #76 iniciando ---
+[2026-03-24 08:24:33] ✓ Corrida #76 [2m 23s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 08:24:33] Próxima corrida: 08:54:33 (en 30 minutos)
+[2026-03-24 08:54:33] --- Corrida #77 iniciando ---
+[2026-03-24 08:56:57] ✓ Corrida #77 [2m 23s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 08:56:57] Próxima corrida: 09:26:57 (en 30 minutos)
+[2026-03-24 09:26:57] --- Corrida #78 iniciando ---
+[2026-03-24 09:29:21] ✓ Corrida #78 [2m 23s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 09:29:21] Próxima corrida: 09:59:21 (en 30 minutos)
+[2026-03-24 09:59:21] --- Corrida #79 iniciando ---
+[2026-03-24 10:01:45] ✓ Corrida #79 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 10:01:45] Próxima corrida: 10:31:45 (en 30 minutos)
+[2026-03-24 10:31:45] --- Corrida #80 iniciando ---
+[2026-03-24 10:34:10] ✓ Corrida #80 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 10:34:10] Próxima corrida: 11:04:10 (en 30 minutos)
+[2026-03-24 11:04:10] --- Corrida #81 iniciando ---
+[2026-03-24 11:06:34] ✓ Corrida #81 [2m 23s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 11:06:34] Próxima corrida: 11:36:34 (en 30 minutos)
+[2026-03-24 11:36:34] --- Corrida #82 iniciando ---
+[2026-03-24 11:38:58] ✓ Corrida #82 [2m 23s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 11:38:58] Próxima corrida: 12:08:58 (en 30 minutos)
+[2026-03-24 12:08:58] --- Corrida #83 iniciando ---
+[2026-03-24 12:11:22] ✓ Corrida #83 [2m 23s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 12:11:22] Próxima corrida: 12:41:22 (en 30 minutos)
+[2026-03-24 12:41:22] --- Corrida #84 iniciando ---
+[2026-03-24 12:43:46] ✓ Corrida #84 [2m 24s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 12:43:46] Próxima corrida: 13:13:46 (en 30 minutos)
+[2026-03-24 13:13:46] --- Corrida #85 iniciando ---
+[2026-03-24 13:16:10] ✓ Corrida #85 [2m 24s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 13:16:10] Próxima corrida: 13:46:10 (en 30 minutos)
+[2026-03-24 13:46:10] --- Corrida #86 iniciando ---
+[2026-03-24 13:48:34] ✓ Corrida #86 [2m 24s] — items=855 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 13:48:34] Próxima corrida: 14:18:34 (en 30 minutos)
+[2026-03-24 14:18:34] --- Corrida #87 iniciando ---
+[2026-03-24 14:20:55] ✓ Corrida #87 [2m 20s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 14:20:55] Próxima corrida: 14:50:55 (en 30 minutos)
+[2026-03-24 14:50:55] --- Corrida #88 iniciando ---
+[2026-03-24 14:53:15] ✓ Corrida #88 [2m 20s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 14:53:15] Próxima corrida: 15:23:15 (en 30 minutos)
+[2026-03-24 15:23:15] --- Corrida #89 iniciando ---
+[2026-03-24 15:25:35] ✓ Corrida #89 [2m 20s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 15:25:35] Próxima corrida: 15:55:35 (en 30 minutos)
+[2026-03-24 15:55:35] --- Corrida #90 iniciando ---
+[2026-03-24 15:57:55] ✓ Corrida #90 [2m 19s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 15:57:55] Próxima corrida: 16:27:55 (en 30 minutos)
+[2026-03-24 16:27:55] --- Corrida #91 iniciando ---
+[2026-03-24 16:30:16] ✓ Corrida #91 [2m 21s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 16:30:16] Próxima corrida: 17:00:16 (en 30 minutos)
+[2026-03-24 17:00:16] --- Corrida #92 iniciando ---
+[2026-03-24 17:02:38] ✓ Corrida #92 [2m 21s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 17:02:38] Próxima corrida: 17:32:38 (en 30 minutos)
+[2026-03-24 17:32:38] --- Corrida #93 iniciando ---
+[2026-03-24 17:34:58] ✓ Corrida #93 [2m 20s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 17:34:58] Próxima corrida: 18:04:58 (en 30 minutos)
+[2026-03-24 18:04:58] --- Corrida #94 iniciando ---
+[2026-03-24 18:07:18] ✓ Corrida #94 [2m 20s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 18:07:18] Próxima corrida: 18:37:18 (en 30 minutos)
+[2026-03-24 18:37:18] --- Corrida #95 iniciando ---
+[2026-03-24 18:39:38] ✓ Corrida #95 [2m 20s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 18:39:38] Próxima corrida: 19:09:38 (en 30 minutos)
+[2026-03-24 19:09:38] --- Corrida #96 iniciando ---
+[2026-03-24 19:11:58] ✓ Corrida #96 [2m 20s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 19:11:58] Próxima corrida: 19:41:58 (en 30 minutos)
+[2026-03-24 19:41:58] --- Corrida #97 iniciando ---
+[2026-03-24 19:44:18] ✓ Corrida #97 [2m 19s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 19:44:18] Próxima corrida: 20:14:18 (en 30 minutos)
+[2026-03-24 20:14:18] --- Corrida #98 iniciando ---
+[2026-03-24 20:16:38] ✓ Corrida #98 [2m 20s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 20:16:38] Próxima corrida: 20:46:38 (en 30 minutos)
+[2026-03-24 20:46:39] --- Corrida #99 iniciando ---
+[2026-03-24 20:48:59] ✓ Corrida #99 [2m 20s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 20:48:59] Próxima corrida: 21:18:59 (en 30 minutos)
+[2026-03-24 21:18:59] --- Corrida #100 iniciando ---
+[2026-03-24 21:21:23] ✓ Corrida #100 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 21:21:23] Próxima corrida: 21:51:23 (en 30 minutos)
+[2026-03-24 21:51:23] --- Corrida #101 iniciando ---
+[2026-03-24 21:53:47] ✓ Corrida #101 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 21:53:47] Próxima corrida: 22:23:47 (en 30 minutos)
+[2026-03-24 22:23:47] --- Corrida #102 iniciando ---
+[2026-03-24 22:26:11] ✓ Corrida #102 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 22:26:11] Próxima corrida: 22:56:11 (en 30 minutos)
+[2026-03-24 22:56:11] --- Corrida #103 iniciando ---
+[2026-03-24 22:58:35] ✓ Corrida #103 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 22:58:35] Próxima corrida: 23:28:35 (en 30 minutos)
+[2026-03-24 23:28:35] --- Corrida #104 iniciando ---
+[2026-03-24 23:31:00] ✓ Corrida #104 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-24 23:31:00] Próxima corrida: 00:01:00 (en 30 minutos)
+[2026-03-25 00:01:00] --- Corrida #105 iniciando ---
+[2026-03-25 00:03:24] ✓ Corrida #105 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 00:03:24] Próxima corrida: 00:33:24 (en 30 minutos)
+[2026-03-25 00:33:24] --- Corrida #106 iniciando ---
+[2026-03-25 00:35:49] ✓ Corrida #106 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 00:35:49] Próxima corrida: 01:05:49 (en 30 minutos)
+[2026-03-25 01:05:49] --- Corrida #107 iniciando ---
+[2026-03-25 01:08:47] ✓ Corrida #107 [2m 58s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 01:08:47] Próxima corrida: 01:38:47 (en 30 minutos)
+[2026-03-25 01:38:47] --- Corrida #108 iniciando ---
+[2026-03-25 01:41:12] ✓ Corrida #108 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 01:41:12] Próxima corrida: 02:11:12 (en 30 minutos)
+[2026-03-25 02:11:12] --- Corrida #109 iniciando ---
+[2026-03-25 02:13:36] ✓ Corrida #109 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 02:13:36] Próxima corrida: 02:43:36 (en 30 minutos)
+[2026-03-25 02:43:36] --- Corrida #110 iniciando ---
+[2026-03-25 02:46:00] ✓ Corrida #110 [2m 23s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 02:46:00] Próxima corrida: 03:16:00 (en 30 minutos)
+[2026-03-25 03:16:00] --- Corrida #111 iniciando ---
+[2026-03-25 03:18:24] ✓ Corrida #111 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 03:18:24] Próxima corrida: 03:48:24 (en 30 minutos)
+[2026-03-25 03:48:25] --- Corrida #112 iniciando ---
+[2026-03-25 03:50:48] ✓ Corrida #112 [2m 23s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 03:50:48] Próxima corrida: 04:20:48 (en 30 minutos)
+[2026-03-25 04:20:49] --- Corrida #113 iniciando ---
+[2026-03-25 04:23:13] ✓ Corrida #113 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 04:23:13] Próxima corrida: 04:53:13 (en 30 minutos)
+[2026-03-25 04:53:13] --- Corrida #114 iniciando ---
+[2026-03-25 04:55:37] ✓ Corrida #114 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 04:55:37] Próxima corrida: 05:25:37 (en 30 minutos)
+[2026-03-25 05:25:37] --- Corrida #115 iniciando ---
+[2026-03-25 05:28:01] ✓ Corrida #115 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 05:28:01] Próxima corrida: 05:58:01 (en 30 minutos)
+[2026-03-25 05:58:01] --- Corrida #116 iniciando ---
+[2026-03-25 06:00:25] ✓ Corrida #116 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 06:00:25] Próxima corrida: 06:30:25 (en 30 minutos)
+[2026-03-25 06:21:08] Scheduler iniciado — intervalo=30min, max_minutes=20
+[2026-03-25 06:21:08] --- Corrida #1 iniciando ---
+[2026-03-25 06:21:10] ✗ Corrida #1 [1s] — items=? | opp=? | enviadas=? | dedup=?
+[2026-03-25 06:21:10]   ERROR: ver stderr
+[2026-03-25 06:21:10]   STDERR: t/venv/lib/python3.12/site-packages/playwright/_impl/_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.auctionnation.com/#all-auctions
+Call log:
+[2026-03-25 06:21:10] Próxima corrida: 06:51:10 (en 30 minutos)
+[2026-03-25 06:51:10] --- Corrida #2 iniciando ---
+[2026-03-25 06:53:34] ✓ Corrida #2 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 06:53:34] Próxima corrida: 07:23:34 (en 30 minutos)
+[2026-03-25 07:23:34] --- Corrida #3 iniciando ---
+[2026-03-25 07:25:58] ✓ Corrida #3 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 07:25:58] Próxima corrida: 07:55:58 (en 30 minutos)
+[2026-03-25 07:55:58] --- Corrida #4 iniciando ---
+[2026-03-25 07:58:23] ✓ Corrida #4 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 07:58:23] Próxima corrida: 08:28:23 (en 30 minutos)
+[2026-03-25 08:28:23] --- Corrida #5 iniciando ---
+[2026-03-25 08:30:47] ✓ Corrida #5 [2m 23s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 08:30:47] Próxima corrida: 09:00:47 (en 30 minutos)
+[2026-03-25 09:00:47] --- Corrida #6 iniciando ---
+[2026-03-25 09:03:11] ✓ Corrida #6 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 09:03:11] Próxima corrida: 09:33:11 (en 30 minutos)
+[2026-03-25 09:33:11] --- Corrida #7 iniciando ---
+[2026-03-25 09:35:36] ✓ Corrida #7 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 09:35:36] Próxima corrida: 10:05:36 (en 30 minutos)
+[2026-03-25 10:05:36] --- Corrida #8 iniciando ---
+[2026-03-25 10:08:01] ✓ Corrida #8 [2m 24s] — items=854 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 10:08:01] Próxima corrida: 10:38:01 (en 30 minutos)
+[2026-03-25 10:38:01] --- Corrida #9 iniciando ---
+[2026-03-25 10:40:21] ✓ Corrida #9 [2m 19s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 10:40:21] Próxima corrida: 11:10:21 (en 30 minutos)
+[2026-03-25 11:10:21] --- Corrida #10 iniciando ---
+[2026-03-25 11:12:41] ✓ Corrida #10 [2m 20s] — items=797 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 11:12:41] Próxima corrida: 11:42:41 (en 30 minutos)
+[2026-03-25 11:42:41] --- Corrida #11 iniciando ---
+[2026-03-25 11:45:01] ✓ Corrida #11 [2m 20s] — items=801 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 11:45:01] Próxima corrida: 12:15:01 (en 30 minutos)
+[2026-03-25 12:15:01] --- Corrida #12 iniciando ---
+[2026-03-25 12:17:22] ✓ Corrida #12 [2m 20s] — items=801 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 12:17:22] Próxima corrida: 12:47:22 (en 30 minutos)
+[2026-03-25 12:47:22] --- Corrida #13 iniciando ---
+[2026-03-25 12:49:42] ✓ Corrida #13 [2m 20s] — items=801 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 12:49:42] Próxima corrida: 13:19:42 (en 30 minutos)
+[2026-03-25 13:19:42] --- Corrida #14 iniciando ---
+[2026-03-25 13:22:02] ✓ Corrida #14 [2m 20s] — items=801 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 13:22:02] Próxima corrida: 13:52:02 (en 30 minutos)
+[2026-03-25 13:52:02] --- Corrida #15 iniciando ---
+[2026-03-25 13:54:23] ✓ Corrida #15 [2m 20s] — items=804 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 13:54:23] Próxima corrida: 14:24:23 (en 30 minutos)
+[2026-03-25 14:24:23] --- Corrida #16 iniciando ---
+[2026-03-25 14:26:43] ✓ Corrida #16 [2m 20s] — items=804 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 14:26:43] Próxima corrida: 14:56:43 (en 30 minutos)
+[2026-03-25 14:56:43] --- Corrida #17 iniciando ---
+[2026-03-25 14:59:03] ✓ Corrida #17 [2m 20s] — items=803 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 14:59:03] Próxima corrida: 15:29:03 (en 30 minutos)
+[2026-03-25 15:29:04] --- Corrida #18 iniciando ---
+[2026-03-25 15:31:43] ✓ Corrida #18 [2m 39s] — items=803 | opp=? | enviadas=15 | dedup=0
+[2026-03-25 15:31:43] Próxima corrida: 16:01:43 (en 30 minutos)
+[2026-03-25 16:01:43] --- Corrida #19 iniciando ---
+[2026-03-25 16:04:22] ✓ Corrida #19 [2m 39s] — items=803 | opp=? | enviadas=15 | dedup=0
+[2026-03-25 16:04:22] Próxima corrida: 16:34:22 (en 30 minutos)
+[2026-03-25 16:34:22] --- Corrida #20 iniciando ---
+[2026-03-25 16:37:05] ✓ Corrida #20 [2m 42s] — items=803 | opp=? | enviadas=15 | dedup=0
+[2026-03-25 16:37:05] Próxima corrida: 17:07:05 (en 30 minutos)
+[2026-03-25 17:07:05] --- Corrida #21 iniciando ---
+[2026-03-25 17:09:31] ✓ Corrida #21 [2m 26s] — items=803 | opp=? | enviadas=6 | dedup=0
+[2026-03-25 17:09:31] Próxima corrida: 17:39:31 (en 30 minutos)
+[2026-03-25 17:39:31] --- Corrida #22 iniciando ---
+[2026-03-25 17:41:57] ✓ Corrida #22 [2m 25s] — items=803 | opp=? | enviadas=5 | dedup=0
+[2026-03-25 17:41:57] Próxima corrida: 18:11:57 (en 30 minutos)
+[2026-03-25 18:11:57] --- Corrida #23 iniciando ---
+[2026-03-25 18:14:17] ✓ Corrida #23 [2m 20s] — items=803 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 18:14:17] Próxima corrida: 18:44:17 (en 30 minutos)
+[2026-03-25 18:44:17] --- Corrida #24 iniciando ---
+[2026-03-25 18:46:32] ✓ Corrida #24 [2m 15s] — items=685 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 18:46:32] Próxima corrida: 19:16:32 (en 30 minutos)
+[2026-03-25 19:16:32] --- Corrida #25 iniciando ---
+[2026-03-25 19:18:36] ✓ Corrida #25 [2m 4s] — items=546 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 19:18:36] Próxima corrida: 19:48:36 (en 30 minutos)
+[2026-03-25 19:48:36] --- Corrida #26 iniciando ---
+[2026-03-25 19:50:28] ✓ Corrida #26 [1m 51s] — items=437 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 19:50:28] Próxima corrida: 20:20:28 (en 30 minutos)
+[2026-03-25 20:20:28] --- Corrida #27 iniciando ---
+[2026-03-25 20:22:32] ✓ Corrida #27 [2m 4s] — items=618 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 20:22:32] Próxima corrida: 20:52:32 (en 30 minutos)
+[2026-03-25 20:52:33] --- Corrida #28 iniciando ---
+[2026-03-25 20:54:20] ✓ Corrida #28 [1m 47s] — items=422 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 20:54:20] Próxima corrida: 21:24:20 (en 30 minutos)
+[2026-03-25 21:24:20] --- Corrida #29 iniciando ---
+[2026-03-25 21:26:24] ✓ Corrida #29 [2m 3s] — items=378 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 21:26:24] Próxima corrida: 21:56:24 (en 30 minutos)
+[2026-03-25 21:56:24] --- Corrida #30 iniciando ---
+[2026-03-25 21:58:15] ✓ Corrida #30 [1m 51s] — items=455 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 21:58:15] Próxima corrida: 22:28:15 (en 30 minutos)
+[2026-03-25 22:28:15] --- Corrida #31 iniciando ---
+[2026-03-25 22:29:55] ✓ Corrida #31 [1m 39s] — items=399 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 22:29:55] Próxima corrida: 22:59:55 (en 30 minutos)
+[2026-03-25 22:59:55] --- Corrida #32 iniciando ---
+[2026-03-25 23:01:34] ✓ Corrida #32 [1m 38s] — items=399 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 23:01:34] Próxima corrida: 23:31:34 (en 30 minutos)
+[2026-03-25 23:31:34] --- Corrida #33 iniciando ---
+[2026-03-25 23:33:13] ✓ Corrida #33 [1m 39s] — items=399 | opp=? | enviadas=0 | dedup=0
+[2026-03-25 23:33:13] Próxima corrida: 00:03:13 (en 30 minutos)
+[2026-03-26 00:03:13] --- Corrida #34 iniciando ---
+[2026-03-26 00:04:52] ✓ Corrida #34 [1m 39s] — items=399 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 00:04:52] Próxima corrida: 00:34:52 (en 30 minutos)
+[2026-03-26 00:34:52] --- Corrida #35 iniciando ---
+[2026-03-26 00:36:32] ✓ Corrida #35 [1m 39s] — items=399 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 00:36:32] Próxima corrida: 01:06:32 (en 30 minutos)
+[2026-03-26 01:06:32] --- Corrida #36 iniciando ---
+[2026-03-26 01:08:12] ✓ Corrida #36 [1m 39s] — items=399 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 01:08:12] Próxima corrida: 01:38:12 (en 30 minutos)
+[2026-03-26 01:38:12] --- Corrida #37 iniciando ---
+[2026-03-26 01:39:51] ✓ Corrida #37 [1m 39s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 01:39:51] Próxima corrida: 02:09:51 (en 30 minutos)
+[2026-03-26 02:09:51] --- Corrida #38 iniciando ---
+[2026-03-26 02:11:30] ✓ Corrida #38 [1m 39s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 02:11:30] Próxima corrida: 02:41:30 (en 30 minutos)
+[2026-03-26 02:41:30] --- Corrida #39 iniciando ---
+[2026-03-26 02:43:10] ✓ Corrida #39 [1m 39s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 02:43:10] Próxima corrida: 03:13:10 (en 30 minutos)
+[2026-03-26 03:13:10] --- Corrida #40 iniciando ---
+[2026-03-26 03:14:50] ✓ Corrida #40 [1m 39s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 03:14:50] Próxima corrida: 03:44:50 (en 30 minutos)
+[2026-03-26 03:44:50] --- Corrida #41 iniciando ---
+[2026-03-26 03:46:29] ✓ Corrida #41 [1m 39s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 03:46:29] Próxima corrida: 04:16:29 (en 30 minutos)
+[2026-03-26 04:16:29] --- Corrida #42 iniciando ---
+[2026-03-26 04:18:09] ✓ Corrida #42 [1m 39s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 04:18:09] Próxima corrida: 04:48:09 (en 30 minutos)
+[2026-03-26 04:48:09] --- Corrida #43 iniciando ---
+[2026-03-26 04:49:51] ✓ Corrida #43 [1m 42s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 04:49:51] Próxima corrida: 05:19:51 (en 30 minutos)
+[2026-03-26 05:19:51] --- Corrida #44 iniciando ---
+[2026-03-26 05:21:30] ✓ Corrida #44 [1m 39s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 05:21:30] Próxima corrida: 05:51:30 (en 30 minutos)
+[2026-03-26 05:51:30] --- Corrida #45 iniciando ---
+[2026-03-26 05:53:09] ✓ Corrida #45 [1m 39s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 05:53:09] Próxima corrida: 06:23:09 (en 30 minutos)
+[2026-03-26 06:23:09] --- Corrida #46 iniciando ---
+[2026-03-26 06:24:49] ✓ Corrida #46 [1m 39s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 06:24:49] Próxima corrida: 06:54:49 (en 30 minutos)
+[2026-03-26 06:54:49] --- Corrida #47 iniciando ---
+[2026-03-26 06:56:28] ✓ Corrida #47 [1m 39s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 06:56:28] Próxima corrida: 07:26:28 (en 30 minutos)
+[2026-03-26 07:26:28] --- Corrida #48 iniciando ---
+[2026-03-26 07:28:08] ✓ Corrida #48 [1m 39s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 07:28:08] Próxima corrida: 07:58:08 (en 30 minutos)
+[2026-03-26 07:58:08] --- Corrida #49 iniciando ---
+[2026-03-26 07:59:47] ✓ Corrida #49 [1m 39s] — items=369 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 07:59:47] Próxima corrida: 08:29:47 (en 30 minutos)
+[2026-03-26 08:29:47] --- Corrida #50 iniciando ---
+[2026-03-26 08:31:27] ✓ Corrida #50 [1m 39s] — items=402 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 08:31:27] Próxima corrida: 09:01:27 (en 30 minutos)
+[2026-03-26 09:01:27] --- Corrida #51 iniciando ---
+[2026-03-26 09:03:06] ✓ Corrida #51 [1m 38s] — items=402 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 09:03:06] Próxima corrida: 09:33:06 (en 30 minutos)
+[2026-03-26 09:33:06] --- Corrida #52 iniciando ---
+[2026-03-26 09:34:45] ✓ Corrida #52 [1m 38s] — items=402 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 09:34:45] Próxima corrida: 10:04:45 (en 30 minutos)
+[2026-03-26 10:04:45] --- Corrida #53 iniciando ---
+[2026-03-26 10:06:28] ✓ Corrida #53 [1m 43s] — items=451 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 10:06:28] Próxima corrida: 10:36:28 (en 30 minutos)
+[2026-03-26 10:36:28] --- Corrida #54 iniciando ---
+[2026-03-26 10:38:11] ✓ Corrida #54 [1m 43s] — items=451 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 10:38:11] Próxima corrida: 11:08:11 (en 30 minutos)
+[2026-03-26 11:08:11] --- Corrida #55 iniciando ---
+[2026-03-26 11:09:55] ✓ Corrida #55 [1m 43s] — items=451 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 11:09:55] Próxima corrida: 11:39:55 (en 30 minutos)
+[2026-03-26 11:39:55] --- Corrida #56 iniciando ---
+[2026-03-26 11:41:48] ✓ Corrida #56 [1m 53s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 11:41:48] Próxima corrida: 12:11:48 (en 30 minutos)
+[2026-03-26 12:11:48] --- Corrida #57 iniciando ---
+[2026-03-26 12:13:31] ✓ Corrida #57 [1m 43s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 12:13:31] Próxima corrida: 12:43:31 (en 30 minutos)
+[2026-03-26 12:43:31] --- Corrida #58 iniciando ---
+[2026-03-26 12:45:14] ✓ Corrida #58 [1m 43s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 12:45:14] Próxima corrida: 13:15:14 (en 30 minutos)
+[2026-03-26 13:15:14] --- Corrida #59 iniciando ---
+[2026-03-26 13:17:00] ✓ Corrida #59 [1m 45s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 13:17:00] Próxima corrida: 13:47:00 (en 30 minutos)
+[2026-03-26 13:47:00] --- Corrida #60 iniciando ---
+[2026-03-26 13:48:44] ✓ Corrida #60 [1m 43s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 13:48:44] Próxima corrida: 14:18:44 (en 30 minutos)
+[2026-03-26 14:18:44] --- Corrida #61 iniciando ---
+[2026-03-26 14:20:28] ✓ Corrida #61 [1m 44s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 14:20:28] Próxima corrida: 14:50:28 (en 30 minutos)
+[2026-03-26 14:50:28] --- Corrida #62 iniciando ---
+[2026-03-26 14:52:12] ✓ Corrida #62 [1m 43s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 14:52:12] Próxima corrida: 15:22:12 (en 30 minutos)
+[2026-03-26 15:22:12] --- Corrida #63 iniciando ---
+[2026-03-26 15:23:56] ✓ Corrida #63 [1m 44s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 15:23:56] Próxima corrida: 15:53:56 (en 30 minutos)
+[2026-03-26 15:53:56] --- Corrida #64 iniciando ---
+[2026-03-26 15:55:39] ✓ Corrida #64 [1m 43s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 15:55:39] Próxima corrida: 16:25:39 (en 30 minutos)
+[2026-03-26 16:25:39] --- Corrida #65 iniciando ---
+[2026-03-26 16:27:26] ✓ Corrida #65 [1m 47s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 16:27:26] Próxima corrida: 16:57:26 (en 30 minutos)
+[2026-03-26 16:57:26] --- Corrida #66 iniciando ---
+[2026-03-26 16:59:09] ✓ Corrida #66 [1m 43s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 16:59:09] Próxima corrida: 17:29:09 (en 30 minutos)
+[2026-03-26 17:29:09] --- Corrida #67 iniciando ---
+[2026-03-26 17:30:52] ✓ Corrida #67 [1m 42s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 17:30:52] Próxima corrida: 18:00:52 (en 30 minutos)
+[2026-03-26 18:00:52] --- Corrida #68 iniciando ---
+[2026-03-26 18:02:36] ✓ Corrida #68 [1m 43s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 18:02:36] Próxima corrida: 18:32:36 (en 30 minutos)
+[2026-03-26 18:32:36] --- Corrida #69 iniciando ---
+[2026-03-26 18:34:18] ✓ Corrida #69 [1m 42s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 18:34:18] Próxima corrida: 19:04:18 (en 30 minutos)
+[2026-03-26 19:04:19] --- Corrida #70 iniciando ---
+[2026-03-26 19:06:01] ✓ Corrida #70 [1m 42s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 19:06:01] Próxima corrida: 19:36:01 (en 30 minutos)
+[2026-03-26 19:36:02] --- Corrida #71 iniciando ---
+[2026-03-26 19:37:44] ✓ Corrida #71 [1m 42s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 19:37:44] Próxima corrida: 20:07:44 (en 30 minutos)
+[2026-03-26 20:07:45] --- Corrida #72 iniciando ---
+[2026-03-26 20:09:27] ✓ Corrida #72 [1m 42s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 20:09:27] Próxima corrida: 20:39:27 (en 30 minutos)
+[2026-03-26 20:39:28] --- Corrida #73 iniciando ---
+[2026-03-26 20:41:10] ✓ Corrida #73 [1m 42s] — items=481 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 20:41:10] Próxima corrida: 21:11:10 (en 30 minutos)
+[2026-03-26 21:11:10] --- Corrida #74 iniciando ---
+[2026-03-26 21:12:57] ✓ Corrida #74 [1m 46s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 21:12:57] Próxima corrida: 21:42:57 (en 30 minutos)
+[2026-03-26 21:42:57] --- Corrida #75 iniciando ---
+[2026-03-26 21:44:44] ✓ Corrida #75 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 21:44:44] Próxima corrida: 22:14:44 (en 30 minutos)
+[2026-03-26 22:14:44] --- Corrida #76 iniciando ---
+[2026-03-26 22:16:32] ✓ Corrida #76 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 22:16:32] Próxima corrida: 22:46:32 (en 30 minutos)
+[2026-03-26 22:46:32] --- Corrida #77 iniciando ---
+[2026-03-26 22:48:19] ✓ Corrida #77 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 22:48:19] Próxima corrida: 23:18:19 (en 30 minutos)
+[2026-03-26 23:18:19] --- Corrida #78 iniciando ---
+[2026-03-26 23:20:06] ✓ Corrida #78 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 23:20:06] Próxima corrida: 23:50:06 (en 30 minutos)
+[2026-03-26 23:50:06] --- Corrida #79 iniciando ---
+[2026-03-26 23:51:53] ✓ Corrida #79 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-26 23:51:53] Próxima corrida: 00:21:53 (en 30 minutos)
+[2026-03-27 00:21:53] --- Corrida #80 iniciando ---
+[2026-03-27 00:23:45] ✓ Corrida #80 [1m 51s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 00:23:45] Próxima corrida: 00:53:45 (en 30 minutos)
+[2026-03-27 00:53:45] --- Corrida #81 iniciando ---
+[2026-03-27 00:55:32] ✓ Corrida #81 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 00:55:32] Próxima corrida: 01:25:32 (en 30 minutos)
+[2026-03-27 01:25:32] --- Corrida #82 iniciando ---
+[2026-03-27 01:27:19] ✓ Corrida #82 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 01:27:19] Próxima corrida: 01:57:19 (en 30 minutos)
+[2026-03-27 01:57:19] --- Corrida #83 iniciando ---
+[2026-03-27 01:59:09] ✓ Corrida #83 [1m 49s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 01:59:09] Próxima corrida: 02:29:09 (en 30 minutos)
+[2026-03-27 02:29:09] --- Corrida #84 iniciando ---
+[2026-03-27 02:30:57] ✓ Corrida #84 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 02:30:57] Próxima corrida: 03:00:57 (en 30 minutos)
+[2026-03-27 03:00:57] --- Corrida #85 iniciando ---
+[2026-03-27 03:02:44] ✓ Corrida #85 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 03:02:44] Próxima corrida: 03:32:44 (en 30 minutos)
+[2026-03-27 03:32:44] --- Corrida #86 iniciando ---
+[2026-03-27 03:34:31] ✓ Corrida #86 [1m 46s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 03:34:31] Próxima corrida: 04:04:31 (en 30 minutos)
+[2026-03-27 04:04:31] --- Corrida #87 iniciando ---
+[2026-03-27 04:06:18] ✓ Corrida #87 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 04:06:18] Próxima corrida: 04:36:18 (en 30 minutos)
+[2026-03-27 04:36:19] --- Corrida #88 iniciando ---
+[2026-03-27 04:38:06] ✓ Corrida #88 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 04:38:06] Próxima corrida: 05:08:06 (en 30 minutos)
+[2026-03-27 05:08:06] --- Corrida #89 iniciando ---
+[2026-03-27 05:09:53] ✓ Corrida #89 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 05:09:53] Próxima corrida: 05:39:53 (en 30 minutos)
+[2026-03-27 05:39:53] --- Corrida #90 iniciando ---
+[2026-03-27 05:41:40] ✓ Corrida #90 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 05:41:40] Próxima corrida: 06:11:40 (en 30 minutos)
+[2026-03-27 06:11:40] --- Corrida #91 iniciando ---
+[2026-03-27 06:13:28] ✓ Corrida #91 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 06:13:28] Próxima corrida: 06:43:28 (en 30 minutos)
+[2026-03-27 06:43:28] --- Corrida #92 iniciando ---
+[2026-03-27 06:45:16] ✓ Corrida #92 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 06:45:16] Próxima corrida: 07:15:16 (en 30 minutos)
+[2026-03-27 07:15:16] --- Corrida #93 iniciando ---
+[2026-03-27 07:17:04] ✓ Corrida #93 [1m 48s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 07:17:04] Próxima corrida: 07:47:04 (en 30 minutos)
+[2026-03-27 07:47:04] --- Corrida #94 iniciando ---
+[2026-03-27 07:48:53] ✓ Corrida #94 [1m 48s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 07:48:53] Próxima corrida: 08:18:53 (en 30 minutos)
+[2026-03-27 08:18:53] --- Corrida #95 iniciando ---
+[2026-03-27 08:20:40] ✓ Corrida #95 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 08:20:40] Próxima corrida: 08:50:40 (en 30 minutos)
+[2026-03-27 08:50:40] --- Corrida #96 iniciando ---
+[2026-03-27 08:52:28] ✓ Corrida #96 [1m 48s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 08:52:28] Próxima corrida: 09:22:28 (en 30 minutos)
+[2026-03-27 09:22:28] --- Corrida #97 iniciando ---
+[2026-03-27 09:24:15] ✓ Corrida #97 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 09:24:15] Próxima corrida: 09:54:15 (en 30 minutos)
+[2026-03-27 09:54:15] --- Corrida #98 iniciando ---
+[2026-03-27 09:56:02] ✓ Corrida #98 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 09:56:02] Próxima corrida: 10:26:02 (en 30 minutos)
+[2026-03-27 10:26:02] --- Corrida #99 iniciando ---
+[2026-03-27 10:27:50] ✓ Corrida #99 [1m 47s] — items=525 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 10:27:50] Próxima corrida: 10:57:50 (en 30 minutos)
+[2026-03-27 10:57:50] --- Corrida #100 iniciando ---
+[2026-03-27 10:59:38] ✓ Corrida #100 [1m 48s] — items=524 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 10:59:38] Próxima corrida: 11:29:38 (en 30 minutos)
+[2026-03-27 11:29:38] --- Corrida #101 iniciando ---
+[2026-03-27 11:31:25] ✓ Corrida #101 [1m 47s] — items=539 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 11:31:25] Próxima corrida: 12:01:25 (en 30 minutos)
+[2026-03-27 12:01:25] --- Corrida #102 iniciando ---
+[2026-03-27 12:03:12] ✓ Corrida #102 [1m 47s] — items=539 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 12:03:12] Próxima corrida: 12:33:12 (en 30 minutos)
+[2026-03-27 12:33:12] --- Corrida #103 iniciando ---
+[2026-03-27 12:34:59] ✓ Corrida #103 [1m 47s] — items=539 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 12:34:59] Próxima corrida: 13:04:59 (en 30 minutos)
+[2026-03-27 13:04:59] --- Corrida #104 iniciando ---
+[2026-03-27 13:06:43] ✓ Corrida #104 [1m 43s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 13:06:43] Próxima corrida: 13:36:43 (en 30 minutos)
+[2026-03-27 13:36:43] --- Corrida #105 iniciando ---
+[2026-03-27 13:38:26] ✓ Corrida #105 [1m 43s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 13:38:26] Próxima corrida: 14:08:26 (en 30 minutos)
+[2026-03-27 14:08:26] --- Corrida #106 iniciando ---
+[2026-03-27 14:10:09] ✓ Corrida #106 [1m 43s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 14:10:09] Próxima corrida: 14:40:09 (en 30 minutos)
+[2026-03-27 14:40:09] --- Corrida #107 iniciando ---
+[2026-03-27 14:41:55] ✓ Corrida #107 [1m 45s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 14:41:55] Próxima corrida: 15:11:55 (en 30 minutos)
+[2026-03-27 15:11:55] --- Corrida #108 iniciando ---
+[2026-03-27 15:13:38] ✓ Corrida #108 [1m 42s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 15:13:38] Próxima corrida: 15:43:38 (en 30 minutos)
+[2026-03-27 15:43:38] --- Corrida #109 iniciando ---
+[2026-03-27 15:45:21] ✓ Corrida #109 [1m 42s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 15:45:21] Próxima corrida: 16:15:21 (en 30 minutos)
+[2026-03-27 16:15:21] --- Corrida #110 iniciando ---
+[2026-03-27 16:17:06] ✓ Corrida #110 [1m 45s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 16:17:06] Próxima corrida: 16:47:06 (en 30 minutos)
+[2026-03-27 16:47:06] --- Corrida #111 iniciando ---
+[2026-03-27 16:49:03] ✓ Corrida #111 [1m 56s] — items=510 | opp=? | enviadas=13 | dedup=0
+[2026-03-27 16:49:03] Próxima corrida: 17:19:03 (en 30 minutos)
+[2026-03-27 17:19:03] --- Corrida #112 iniciando ---
+[2026-03-27 17:20:46] ✓ Corrida #112 [1m 43s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 17:20:46] Próxima corrida: 17:50:46 (en 30 minutos)
+[2026-03-27 17:50:46] --- Corrida #113 iniciando ---
+[2026-03-27 17:52:33] ✓ Corrida #113 [1m 47s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 17:52:33] Próxima corrida: 18:22:33 (en 30 minutos)
+[2026-03-27 18:22:33] --- Corrida #114 iniciando ---
+[2026-03-27 18:24:18] ✓ Corrida #114 [1m 44s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 18:24:18] Próxima corrida: 18:54:18 (en 30 minutos)
+[2026-03-27 18:54:18] --- Corrida #115 iniciando ---
+[2026-03-27 18:56:01] ✓ Corrida #115 [1m 43s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 18:56:01] Próxima corrida: 19:26:01 (en 30 minutos)
+[2026-03-27 19:26:01] --- Corrida #116 iniciando ---
+[2026-03-27 19:27:47] ✓ Corrida #116 [1m 45s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 19:27:47] Próxima corrida: 19:57:47 (en 30 minutos)
+[2026-03-27 19:57:47] --- Corrida #117 iniciando ---
+[2026-03-27 19:59:26] ✓ Corrida #117 [1m 38s] — items=498 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 19:59:26] Próxima corrida: 20:29:26 (en 30 minutos)
+[2026-03-27 20:29:26] --- Corrida #118 iniciando ---
+[2026-03-27 20:31:09] ✓ Corrida #118 [1m 43s] — items=510 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 20:31:09] Próxima corrida: 21:01:09 (en 30 minutos)
+[2026-03-27 21:01:09] --- Corrida #119 iniciando ---
+[2026-03-27 21:02:55] ✓ Corrida #119 [1m 45s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 21:02:55] Próxima corrida: 21:32:55 (en 30 minutos)
+[2026-03-27 21:32:55] --- Corrida #120 iniciando ---
+[2026-03-27 21:34:38] ✓ Corrida #120 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 21:34:38] Próxima corrida: 22:04:38 (en 30 minutos)
+[2026-03-27 22:04:38] --- Corrida #121 iniciando ---
+[2026-03-27 22:06:21] ✓ Corrida #121 [1m 42s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 22:06:21] Próxima corrida: 22:36:21 (en 30 minutos)
+[2026-03-27 22:36:21] --- Corrida #122 iniciando ---
+[2026-03-27 22:38:04] ✓ Corrida #122 [1m 42s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 22:38:04] Próxima corrida: 23:08:04 (en 30 minutos)
+[2026-03-27 23:08:04] --- Corrida #123 iniciando ---
+[2026-03-27 23:09:47] ✓ Corrida #123 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 23:09:47] Próxima corrida: 23:39:47 (en 30 minutos)
+[2026-03-27 23:39:47] --- Corrida #124 iniciando ---
+[2026-03-27 23:41:30] ✓ Corrida #124 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-27 23:41:30] Próxima corrida: 00:11:30 (en 30 minutos)
+[2026-03-28 00:11:30] --- Corrida #125 iniciando ---
+[2026-03-28 00:13:16] ✓ Corrida #125 [1m 45s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 00:13:16] Próxima corrida: 00:43:16 (en 30 minutos)
+[2026-03-28 00:43:16] --- Corrida #126 iniciando ---
+[2026-03-28 00:44:59] ✓ Corrida #126 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 00:44:59] Próxima corrida: 01:14:59 (en 30 minutos)
+[2026-03-28 01:14:59] --- Corrida #127 iniciando ---
+[2026-03-28 01:16:43] ✓ Corrida #127 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 01:16:43] Próxima corrida: 01:46:43 (en 30 minutos)
+[2026-03-28 01:46:43] --- Corrida #128 iniciando ---
+[2026-03-28 01:48:28] ✓ Corrida #128 [1m 45s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 01:48:28] Próxima corrida: 02:18:28 (en 30 minutos)
+[2026-03-28 02:18:28] --- Corrida #129 iniciando ---
+[2026-03-28 02:20:12] ✓ Corrida #129 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 02:20:12] Próxima corrida: 02:50:12 (en 30 minutos)
+[2026-03-28 02:50:12] --- Corrida #130 iniciando ---
+[2026-03-28 02:51:55] ✓ Corrida #130 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 02:51:55] Próxima corrida: 03:21:55 (en 30 minutos)
+[2026-03-28 03:21:55] --- Corrida #131 iniciando ---
+[2026-03-28 03:23:40] ✓ Corrida #131 [1m 45s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 03:23:40] Próxima corrida: 03:53:40 (en 30 minutos)
+[2026-03-28 03:53:40] --- Corrida #132 iniciando ---
+[2026-03-28 03:55:24] ✓ Corrida #132 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 03:55:24] Próxima corrida: 04:25:24 (en 30 minutos)
+[2026-03-28 04:25:24] --- Corrida #133 iniciando ---
+[2026-03-28 04:27:07] ✓ Corrida #133 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 04:27:07] Próxima corrida: 04:57:07 (en 30 minutos)
+[2026-03-28 04:57:07] --- Corrida #134 iniciando ---
+[2026-03-28 04:58:50] ✓ Corrida #134 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 04:58:50] Próxima corrida: 05:28:50 (en 30 minutos)
+[2026-03-28 05:28:50] --- Corrida #135 iniciando ---
+[2026-03-28 05:30:33] ✓ Corrida #135 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 05:30:33] Próxima corrida: 06:00:33 (en 30 minutos)
+[2026-03-28 06:00:33] --- Corrida #136 iniciando ---
+[2026-03-28 06:02:16] ✓ Corrida #136 [1m 42s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 06:02:16] Próxima corrida: 06:32:16 (en 30 minutos)
+[2026-03-28 06:32:16] --- Corrida #137 iniciando ---
+[2026-03-28 06:34:00] ✓ Corrida #137 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 06:34:00] Próxima corrida: 07:04:00 (en 30 minutos)
+[2026-03-28 07:04:00] --- Corrida #138 iniciando ---
+[2026-03-28 07:05:43] ✓ Corrida #138 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 07:05:43] Próxima corrida: 07:35:43 (en 30 minutos)
+[2026-03-28 07:35:43] --- Corrida #139 iniciando ---
+[2026-03-28 07:37:26] ✓ Corrida #139 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 07:37:26] Próxima corrida: 08:07:26 (en 30 minutos)
+[2026-03-28 08:07:26] --- Corrida #140 iniciando ---
+[2026-03-28 08:09:09] ✓ Corrida #140 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 08:09:09] Próxima corrida: 08:39:09 (en 30 minutos)
+[2026-03-28 08:39:09] --- Corrida #141 iniciando ---
+[2026-03-28 08:40:53] ✓ Corrida #141 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 08:40:53] Próxima corrida: 09:10:53 (en 30 minutos)
+[2026-03-28 09:10:53] --- Corrida #142 iniciando ---
+[2026-03-28 09:12:36] ✓ Corrida #142 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 09:12:36] Próxima corrida: 09:42:36 (en 30 minutos)
+[2026-03-28 09:42:36] --- Corrida #143 iniciando ---
+[2026-03-28 09:44:19] ✓ Corrida #143 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 09:44:19] Próxima corrida: 10:14:19 (en 30 minutos)
+[2026-03-28 10:14:19] --- Corrida #144 iniciando ---
+[2026-03-28 10:16:02] ✓ Corrida #144 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 10:16:02] Próxima corrida: 10:46:02 (en 30 minutos)
+[2026-03-28 10:46:02] --- Corrida #145 iniciando ---
+[2026-03-28 10:47:46] ✓ Corrida #145 [1m 43s] — items=502 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 10:47:46] Próxima corrida: 11:17:46 (en 30 minutos)
+[2026-03-28 11:17:46] --- Corrida #146 iniciando ---
+[2026-03-28 11:19:29] ✓ Corrida #146 [1m 43s] — items=492 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 11:19:29] Próxima corrida: 11:49:29 (en 30 minutos)
+[2026-03-28 11:49:29] --- Corrida #147 iniciando ---
+[2026-03-28 11:51:12] ✓ Corrida #147 [1m 43s] — items=492 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 11:51:12] Próxima corrida: 12:21:12 (en 30 minutos)
+[2026-03-28 12:21:12] --- Corrida #148 iniciando ---
+[2026-03-28 12:22:55] ✓ Corrida #148 [1m 42s] — items=492 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 12:22:55] Próxima corrida: 12:52:55 (en 30 minutos)
+[2026-03-28 12:52:55] --- Corrida #149 iniciando ---
+[2026-03-28 12:54:40] ✓ Corrida #149 [1m 44s] — items=492 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 12:54:40] Próxima corrida: 13:24:40 (en 30 minutos)
+[2026-03-28 13:24:40] --- Corrida #150 iniciando ---
+[2026-03-28 13:26:23] ✓ Corrida #150 [1m 43s] — items=492 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 13:26:23] Próxima corrida: 13:56:23 (en 30 minutos)
+[2026-03-28 13:56:23] --- Corrida #151 iniciando ---
+[2026-03-28 13:58:06] ✓ Corrida #151 [1m 42s] — items=492 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 13:58:06] Próxima corrida: 14:28:06 (en 30 minutos)
+[2026-03-28 14:28:06] --- Corrida #152 iniciando ---
+[2026-03-28 14:29:49] ✓ Corrida #152 [1m 43s] — items=492 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 14:29:49] Próxima corrida: 14:59:49 (en 30 minutos)
+[2026-03-28 14:59:49] --- Corrida #153 iniciando ---
+[2026-03-28 15:01:32] ✓ Corrida #153 [1m 43s] — items=492 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 15:01:32] Próxima corrida: 15:31:32 (en 30 minutos)
+[2026-03-28 15:31:33] --- Corrida #154 iniciando ---
+[2026-03-28 15:33:15] ✓ Corrida #154 [1m 42s] — items=492 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 15:33:15] Próxima corrida: 16:03:15 (en 30 minutos)
+[2026-03-28 16:03:16] --- Corrida #155 iniciando ---
+[2026-03-28 16:05:11] ✓ Corrida #155 [1m 55s] — items=492 | opp=? | enviadas=12 | dedup=0
+[2026-03-28 16:05:11] Próxima corrida: 16:35:11 (en 30 minutos)
+[2026-03-28 16:35:11] --- Corrida #156 iniciando ---
+[2026-03-28 16:37:09] ✓ Corrida #156 [1m 57s] — items=492 | opp=? | enviadas=15 | dedup=0
+[2026-03-28 16:37:09] Próxima corrida: 17:07:09 (en 30 minutos)
+[2026-03-28 17:07:09] --- Corrida #157 iniciando ---
+[2026-03-28 17:09:47] ✓ Corrida #157 [2m 38s] — items=492 | opp=? | enviadas=14 | dedup=0
+[2026-03-28 17:09:47] Próxima corrida: 17:39:47 (en 30 minutos)
+[2026-03-28 17:39:47] --- Corrida #158 iniciando ---
+[2026-03-28 17:41:30] ✓ Corrida #158 [1m 43s] — items=492 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 17:41:30] Próxima corrida: 18:11:30 (en 30 minutos)
+[2026-03-28 18:11:30] --- Corrida #159 iniciando ---
+[2026-03-28 18:13:14] ✓ Corrida #159 [1m 43s] — items=492 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 18:13:14] Próxima corrida: 18:43:14 (en 30 minutos)
+[2026-03-28 18:43:14] --- Corrida #160 iniciando ---
+[2026-03-28 18:44:57] ✓ Corrida #160 [1m 42s] — items=491 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 18:44:57] Próxima corrida: 19:14:57 (en 30 minutos)
+[2026-03-28 19:14:57] --- Corrida #161 iniciando ---
+[2026-03-28 19:16:36] ✓ Corrida #161 [1m 39s] — items=459 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 19:16:36] Próxima corrida: 19:46:36 (en 30 minutos)
+[2026-03-28 19:46:36] --- Corrida #162 iniciando ---
+[2026-03-28 19:48:11] ✓ Corrida #162 [1m 34s] — items=411 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 19:48:11] Próxima corrida: 20:18:11 (en 30 minutos)
+[2026-03-28 20:18:11] --- Corrida #163 iniciando ---
+[2026-03-28 20:19:49] ✓ Corrida #163 [1m 38s] — items=422 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 20:19:49] Próxima corrida: 20:49:49 (en 30 minutos)
+[2026-03-28 20:49:50] --- Corrida #164 iniciando ---
+[2026-03-28 20:52:01] ✓ Corrida #164 [2m 11s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 20:52:01] Próxima corrida: 21:22:01 (en 30 minutos)
+[2026-03-28 21:22:01] --- Corrida #165 iniciando ---
+[2026-03-28 21:24:09] ✓ Corrida #165 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 21:24:09] Próxima corrida: 21:54:09 (en 30 minutos)
+[2026-03-28 21:54:09] --- Corrida #166 iniciando ---
+[2026-03-28 21:56:17] ✓ Corrida #166 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 21:56:17] Próxima corrida: 22:26:17 (en 30 minutos)
+[2026-03-28 22:26:17] --- Corrida #167 iniciando ---
+[2026-03-28 22:28:25] ✓ Corrida #167 [2m 8s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 22:28:25] Próxima corrida: 22:58:25 (en 30 minutos)
+[2026-03-28 22:58:25] --- Corrida #168 iniciando ---
+[2026-03-28 23:00:33] ✓ Corrida #168 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 23:00:33] Próxima corrida: 23:30:33 (en 30 minutos)
+[2026-03-28 23:30:33] --- Corrida #169 iniciando ---
+[2026-03-28 23:32:40] ✓ Corrida #169 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-28 23:32:40] Próxima corrida: 00:02:40 (en 30 minutos)
+[2026-03-29 00:02:40] --- Corrida #170 iniciando ---
+[2026-03-29 00:04:48] ✓ Corrida #170 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 00:04:48] Próxima corrida: 00:34:48 (en 30 minutos)
+[2026-03-29 00:34:48] --- Corrida #171 iniciando ---
+[2026-03-29 00:36:56] ✓ Corrida #171 [2m 8s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 00:36:56] Próxima corrida: 01:06:56 (en 30 minutos)
+[2026-03-29 01:06:56] --- Corrida #172 iniciando ---
+[2026-03-29 01:09:04] ✓ Corrida #172 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 01:09:04] Próxima corrida: 01:39:04 (en 30 minutos)
+[2026-03-29 01:39:04] --- Corrida #173 iniciando ---
+[2026-03-29 01:41:12] ✓ Corrida #173 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 01:41:12] Próxima corrida: 02:11:12 (en 30 minutos)
+[2026-03-29 02:11:12] --- Corrida #174 iniciando ---
+[2026-03-29 02:13:20] ✓ Corrida #174 [2m 8s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 02:13:20] Próxima corrida: 02:43:20 (en 30 minutos)
+[2026-03-29 02:43:20] --- Corrida #175 iniciando ---
+[2026-03-29 02:45:27] ✓ Corrida #175 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 02:45:27] Próxima corrida: 03:15:27 (en 30 minutos)
+[2026-03-29 03:15:28] --- Corrida #176 iniciando ---
+[2026-03-29 03:17:35] ✓ Corrida #176 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 03:17:35] Próxima corrida: 03:47:35 (en 30 minutos)
+[2026-03-29 03:47:35] --- Corrida #177 iniciando ---
+[2026-03-29 03:49:43] ✓ Corrida #177 [2m 8s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 03:49:43] Próxima corrida: 04:19:43 (en 30 minutos)
+[2026-03-29 04:19:43] --- Corrida #178 iniciando ---
+[2026-03-29 04:21:51] ✓ Corrida #178 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 04:21:51] Próxima corrida: 04:51:51 (en 30 minutos)
+[2026-03-29 04:51:51] --- Corrida #179 iniciando ---
+[2026-03-29 04:54:01] ✓ Corrida #179 [2m 10s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 04:54:01] Próxima corrida: 05:24:01 (en 30 minutos)
+[2026-03-29 05:24:01] --- Corrida #180 iniciando ---
+[2026-03-29 05:26:09] ✓ Corrida #180 [2m 8s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 05:26:09] Próxima corrida: 05:56:09 (en 30 minutos)
+[2026-03-29 05:56:09] --- Corrida #181 iniciando ---
+[2026-03-29 05:58:17] ✓ Corrida #181 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 05:58:17] Próxima corrida: 06:28:17 (en 30 minutos)
+[2026-03-29 06:28:17] --- Corrida #182 iniciando ---
+[2026-03-29 06:30:29] ✓ Corrida #182 [2m 11s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 06:30:29] Próxima corrida: 07:00:29 (en 30 minutos)
+[2026-03-29 07:00:29] --- Corrida #183 iniciando ---
+[2026-03-29 07:02:36] ✓ Corrida #183 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 07:02:36] Próxima corrida: 07:32:36 (en 30 minutos)
+[2026-03-29 07:32:36] --- Corrida #184 iniciando ---
+[2026-03-29 07:34:44] ✓ Corrida #184 [2m 8s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 07:34:44] Próxima corrida: 08:04:44 (en 30 minutos)
+[2026-03-29 08:04:44] --- Corrida #185 iniciando ---
+[2026-03-29 08:06:55] ✓ Corrida #185 [2m 10s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 08:06:55] Próxima corrida: 08:36:55 (en 30 minutos)
+[2026-03-29 08:36:55] --- Corrida #186 iniciando ---
+[2026-03-29 08:39:03] ✓ Corrida #186 [2m 8s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 08:39:03] Próxima corrida: 09:09:03 (en 30 minutos)
+[2026-03-29 09:09:03] --- Corrida #187 iniciando ---
+[2026-03-29 09:11:11] ✓ Corrida #187 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 09:11:11] Próxima corrida: 09:41:11 (en 30 minutos)
+[2026-03-29 09:41:11] --- Corrida #188 iniciando ---
+[2026-03-29 09:43:22] ✓ Corrida #188 [2m 10s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 09:43:22] Próxima corrida: 10:13:22 (en 30 minutos)
+[2026-03-29 10:13:22] --- Corrida #189 iniciando ---
+[2026-03-29 10:15:29] ✓ Corrida #189 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 10:15:29] Próxima corrida: 10:45:29 (en 30 minutos)
+[2026-03-29 10:45:29] --- Corrida #190 iniciando ---
+[2026-03-29 10:47:37] ✓ Corrida #190 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 10:47:37] Próxima corrida: 11:17:37 (en 30 minutos)
+[2026-03-29 11:17:37] --- Corrida #191 iniciando ---
+[2026-03-29 11:19:45] ✓ Corrida #191 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 11:19:45] Próxima corrida: 11:49:45 (en 30 minutos)
+[2026-03-29 11:49:45] --- Corrida #192 iniciando ---
+[2026-03-29 11:51:52] ✓ Corrida #192 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 11:51:52] Próxima corrida: 12:21:52 (en 30 minutos)
+[2026-03-29 12:21:52] --- Corrida #193 iniciando ---
+[2026-03-29 12:24:00] ✓ Corrida #193 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 12:24:00] Próxima corrida: 12:54:00 (en 30 minutos)
+[2026-03-29 12:54:00] --- Corrida #194 iniciando ---
+[2026-03-29 12:56:08] ✓ Corrida #194 [2m 8s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 12:56:08] Próxima corrida: 13:26:08 (en 30 minutos)
+[2026-03-29 13:26:08] --- Corrida #195 iniciando ---
+[2026-03-29 13:28:16] ✓ Corrida #195 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 13:28:16] Próxima corrida: 13:58:16 (en 30 minutos)
+[2026-03-29 13:58:16] --- Corrida #196 iniciando ---
+[2026-03-29 14:00:24] ✓ Corrida #196 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 14:00:24] Próxima corrida: 14:30:24 (en 30 minutos)
+[2026-03-29 14:30:24] --- Corrida #197 iniciando ---
+[2026-03-29 14:32:36] ✓ Corrida #197 [2m 11s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 14:32:36] Próxima corrida: 15:02:36 (en 30 minutos)
+[2026-03-29 15:02:36] --- Corrida #198 iniciando ---
+[2026-03-29 15:04:43] ✓ Corrida #198 [2m 7s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 15:04:43] Próxima corrida: 15:34:43 (en 30 minutos)
+[2026-03-29 15:34:43] --- Corrida #199 iniciando ---
+[2026-03-29 15:37:06] ✓ Corrida #199 [2m 22s] — items=760 | opp=? | enviadas=15 | dedup=0
+[2026-03-29 15:37:06] Próxima corrida: 16:07:06 (en 30 minutos)
+[2026-03-29 16:07:06] --- Corrida #200 iniciando ---
+[2026-03-29 16:09:29] ✓ Corrida #200 [2m 23s] — items=760 | opp=? | enviadas=15 | dedup=0
+[2026-03-29 16:09:29] Próxima corrida: 16:39:29 (en 30 minutos)
+[2026-03-29 16:39:29] --- Corrida #201 iniciando ---
+[2026-03-29 16:41:52] ✓ Corrida #201 [2m 22s] — items=760 | opp=? | enviadas=15 | dedup=0
+[2026-03-29 16:41:52] Próxima corrida: 17:11:52 (en 30 minutos)
+[2026-03-29 17:11:52] --- Corrida #202 iniciando ---
+[2026-03-29 17:14:01] ✓ Corrida #202 [2m 8s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 17:14:01] Próxima corrida: 17:44:01 (en 30 minutos)
+[2026-03-29 17:44:01] --- Corrida #203 iniciando ---
+[2026-03-29 17:46:11] ✓ Corrida #203 [2m 10s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 17:46:11] Próxima corrida: 18:16:11 (en 30 minutos)
+[2026-03-29 18:16:11] --- Corrida #204 iniciando ---
+[2026-03-29 18:18:20] ✓ Corrida #204 [2m 8s] — items=760 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 18:18:20] Próxima corrida: 18:48:20 (en 30 minutos)
+[2026-03-29 18:48:20] --- Corrida #205 iniciando ---
+[2026-03-29 18:50:21] ✓ Corrida #205 [2m 1s] — items=609 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 18:50:21] Próxima corrida: 19:20:21 (en 30 minutos)
+[2026-03-29 19:20:21] --- Corrida #206 iniciando ---
+[2026-03-29 19:22:09] ✓ Corrida #206 [1m 47s] — items=490 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 19:22:09] Próxima corrida: 19:52:09 (en 30 minutos)
+[2026-03-29 19:52:09] --- Corrida #207 iniciando ---
+[2026-03-29 19:54:09] ✓ Corrida #207 [2m 0s] — items=624 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 19:54:09] Próxima corrida: 20:24:09 (en 30 minutos)
+[2026-03-29 20:24:09] --- Corrida #208 iniciando ---
+[2026-03-29 20:26:05] ✓ Corrida #208 [1m 55s] — items=571 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 20:26:05] Próxima corrida: 20:56:05 (en 30 minutos)
+[2026-03-29 20:56:05] --- Corrida #209 iniciando ---
+[2026-03-29 20:57:38] ✓ Corrida #209 [1m 33s] — items=363 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 20:57:38] Próxima corrida: 21:27:38 (en 30 minutos)
+[2026-03-29 21:27:38] --- Corrida #210 iniciando ---
+[2026-03-29 21:29:09] ✓ Corrida #210 [1m 30s] — items=352 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 21:29:09] Próxima corrida: 21:59:09 (en 30 minutos)
+[2026-03-29 21:59:09] --- Corrida #211 iniciando ---
+[2026-03-29 22:00:48] ✓ Corrida #211 [1m 39s] — items=392 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 22:00:48] Próxima corrida: 22:30:48 (en 30 minutos)
+[2026-03-29 22:30:48] --- Corrida #212 iniciando ---
+[2026-03-29 22:33:16] ✓ Corrida #212 [2m 28s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 22:33:16] Próxima corrida: 23:03:16 (en 30 minutos)
+[2026-03-29 23:03:16] --- Corrida #213 iniciando ---
+[2026-03-29 23:05:40] ✓ Corrida #213 [2m 23s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 23:05:40] Próxima corrida: 23:35:40 (en 30 minutos)
+[2026-03-29 23:35:40] --- Corrida #214 iniciando ---
+[2026-03-29 23:38:04] ✓ Corrida #214 [2m 24s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-29 23:38:04] Próxima corrida: 00:08:04 (en 30 minutos)
+[2026-03-30 00:08:04] --- Corrida #215 iniciando ---
+[2026-03-30 00:10:30] ✓ Corrida #215 [2m 26s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 00:10:30] Próxima corrida: 00:40:30 (en 30 minutos)
+[2026-03-30 00:40:30] --- Corrida #216 iniciando ---
+[2026-03-30 00:42:55] ✓ Corrida #216 [2m 24s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 00:42:55] Próxima corrida: 01:12:55 (en 30 minutos)
+[2026-03-30 01:12:55] --- Corrida #217 iniciando ---
+[2026-03-30 01:15:19] ✓ Corrida #217 [2m 24s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 01:15:19] Próxima corrida: 01:45:19 (en 30 minutos)
+[2026-03-30 01:45:19] --- Corrida #218 iniciando ---
+[2026-03-30 01:47:46] ✓ Corrida #218 [2m 26s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 01:47:46] Próxima corrida: 02:17:46 (en 30 minutos)
+[2026-03-30 02:17:46] --- Corrida #219 iniciando ---
+[2026-03-30 02:20:10] ✓ Corrida #219 [2m 23s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 02:20:10] Próxima corrida: 02:50:10 (en 30 minutos)
+[2026-03-30 02:50:10] --- Corrida #220 iniciando ---
+[2026-03-30 02:52:34] ✓ Corrida #220 [2m 24s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 02:52:34] Próxima corrida: 03:22:34 (en 30 minutos)
+[2026-03-30 03:22:34] --- Corrida #221 iniciando ---
+[2026-03-30 03:25:02] ✓ Corrida #221 [2m 27s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 03:25:02] Próxima corrida: 03:55:02 (en 30 minutos)
+[2026-03-30 03:55:02] --- Corrida #222 iniciando ---
+[2026-03-30 03:57:26] ✓ Corrida #222 [2m 24s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 03:57:26] Próxima corrida: 04:27:26 (en 30 minutos)
+[2026-03-30 04:27:26] --- Corrida #223 iniciando ---
+[2026-03-30 04:29:51] ✓ Corrida #223 [2m 24s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 04:29:51] Próxima corrida: 04:59:51 (en 30 minutos)
+[2026-03-30 04:59:51] --- Corrida #224 iniciando ---
+[2026-03-30 05:02:15] ✓ Corrida #224 [2m 24s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 05:02:15] Próxima corrida: 05:32:15 (en 30 minutos)
+[2026-03-30 05:32:15] --- Corrida #225 iniciando ---
+[2026-03-30 05:34:39] ✓ Corrida #225 [2m 24s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 05:34:39] Próxima corrida: 06:04:39 (en 30 minutos)
+[2026-03-30 06:04:39] --- Corrida #226 iniciando ---
+[2026-03-30 06:07:03] ✓ Corrida #226 [2m 24s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 06:07:03] Próxima corrida: 06:37:03 (en 30 minutos)
+[2026-03-30 06:37:03] --- Corrida #227 iniciando ---
+[2026-03-30 06:39:27] ✓ Corrida #227 [2m 23s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 06:39:27] Próxima corrida: 07:09:27 (en 30 minutos)
+[2026-03-30 07:09:27] --- Corrida #228 iniciando ---
+[2026-03-30 07:11:52] ✓ Corrida #228 [2m 24s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 07:11:52] Próxima corrida: 07:41:52 (en 30 minutos)
+[2026-03-30 07:41:52] --- Corrida #229 iniciando ---
+[2026-03-30 07:44:16] ✓ Corrida #229 [2m 24s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 07:44:16] Próxima corrida: 08:14:16 (en 30 minutos)
+[2026-03-30 08:14:16] --- Corrida #230 iniciando ---
+[2026-03-30 08:16:43] ✓ Corrida #230 [2m 26s] — items=894 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 08:16:43] Próxima corrida: 08:46:43 (en 30 minutos)
+[2026-03-30 08:46:43] --- Corrida #231 iniciando ---
+[2026-03-30 08:49:07] ✓ Corrida #231 [2m 24s] — items=893 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 08:49:07] Próxima corrida: 09:19:07 (en 30 minutos)
+[2026-03-30 09:19:07] --- Corrida #232 iniciando ---
+[2026-03-30 09:21:32] ✓ Corrida #232 [2m 24s] — items=893 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 09:21:32] Próxima corrida: 09:51:32 (en 30 minutos)
+[2026-03-30 09:51:32] --- Corrida #233 iniciando ---
+[2026-03-30 09:53:56] ✓ Corrida #233 [2m 24s] — items=893 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 09:53:56] Próxima corrida: 10:23:56 (en 30 minutos)
+[2026-03-30 10:23:56] --- Corrida #234 iniciando ---
+[2026-03-30 10:26:20] ✓ Corrida #234 [2m 24s] — items=893 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 10:26:20] Próxima corrida: 10:56:20 (en 30 minutos)
+[2026-03-30 10:56:20] --- Corrida #235 iniciando ---
+[2026-03-30 10:58:44] ✓ Corrida #235 [2m 24s] — items=893 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 10:58:44] Próxima corrida: 11:28:44 (en 30 minutos)
+[2026-03-30 11:28:44] --- Corrida #236 iniciando ---
+[2026-03-30 11:31:09] ✓ Corrida #236 [2m 24s] — items=892 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 11:31:09] Próxima corrida: 12:01:09 (en 30 minutos)
+[2026-03-30 12:01:09] --- Corrida #237 iniciando ---
+[2026-03-30 12:03:33] ✓ Corrida #237 [2m 24s] — items=891 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 12:03:33] Próxima corrida: 12:33:33 (en 30 minutos)
+[2026-03-30 12:33:33] --- Corrida #238 iniciando ---
+[2026-03-30 12:35:57] ✓ Corrida #238 [2m 24s] — items=891 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 12:35:57] Próxima corrida: 13:05:57 (en 30 minutos)
+[2026-03-30 13:05:57] --- Corrida #239 iniciando ---
+[2026-03-30 13:08:22] ✓ Corrida #239 [2m 24s] — items=891 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 13:08:22] Próxima corrida: 13:38:22 (en 30 minutos)
+[2026-03-30 13:38:22] --- Corrida #240 iniciando ---
+[2026-03-30 13:40:46] ✓ Corrida #240 [2m 24s] — items=891 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 13:40:46] Próxima corrida: 14:10:46 (en 30 minutos)
+[2026-03-30 14:10:46] --- Corrida #241 iniciando ---
+[2026-03-30 14:13:11] ✓ Corrida #241 [2m 24s] — items=891 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 14:13:11] Próxima corrida: 14:43:11 (en 30 minutos)
+[2026-03-30 14:43:11] --- Corrida #242 iniciando ---
+[2026-03-30 14:45:35] ✓ Corrida #242 [2m 24s] — items=890 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 14:45:35] Próxima corrida: 15:15:35 (en 30 minutos)
+[2026-03-30 15:15:35] --- Corrida #243 iniciando ---
+[2026-03-30 15:18:01] ✓ Corrida #243 [2m 25s] — items=890 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 15:18:01] Próxima corrida: 15:48:01 (en 30 minutos)
+[2026-03-30 15:48:01] --- Corrida #244 iniciando ---
+[2026-03-30 15:50:25] ✓ Corrida #244 [2m 24s] — items=890 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 15:50:25] Próxima corrida: 16:20:25 (en 30 minutos)
+[2026-03-30 16:20:25] --- Corrida #245 iniciando ---
+[2026-03-30 16:22:49] ✓ Corrida #245 [2m 23s] — items=890 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 16:22:49] Próxima corrida: 16:52:49 (en 30 minutos)
+[2026-03-30 16:52:49] --- Corrida #246 iniciando ---
+[2026-03-30 16:55:27] ✓ Corrida #246 [2m 38s] — items=890 | opp=? | enviadas=15 | dedup=0
+[2026-03-30 16:55:27] Próxima corrida: 17:25:27 (en 30 minutos)
+[2026-03-30 17:25:27] --- Corrida #247 iniciando ---
+[2026-03-30 17:28:05] ✓ Corrida #247 [2m 38s] — items=890 | opp=? | enviadas=15 | dedup=0
+[2026-03-30 17:28:05] Próxima corrida: 17:58:05 (en 30 minutos)
+[2026-03-30 17:58:05] --- Corrida #248 iniciando ---
+[2026-03-30 18:00:30] ✓ Corrida #248 [2m 24s] — items=890 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 18:00:30] Próxima corrida: 18:30:30 (en 30 minutos)
+[2026-03-30 18:30:30] --- Corrida #249 iniciando ---
+[2026-03-30 18:32:57] ✓ Corrida #249 [2m 27s] — items=890 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 18:32:57] Próxima corrida: 19:02:57 (en 30 minutos)
+[2026-03-30 19:02:57] --- Corrida #250 iniciando ---
+[2026-03-30 19:05:21] ✓ Corrida #250 [2m 24s] — items=890 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 19:05:21] Próxima corrida: 19:35:21 (en 30 minutos)
+[2026-03-30 19:35:21] --- Corrida #251 iniciando ---
+[2026-03-30 19:37:46] ✓ Corrida #251 [2m 24s] — items=890 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 19:37:46] Próxima corrida: 20:07:46 (en 30 minutos)
+[2026-03-30 20:07:46] --- Corrida #252 iniciando ---
+[2026-03-30 20:10:10] ✓ Corrida #252 [2m 23s] — items=890 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 20:10:10] Próxima corrida: 20:40:10 (en 30 minutos)
+[2026-03-30 20:40:10] --- Corrida #253 iniciando ---
+[2026-03-30 20:42:26] ✓ Corrida #253 [2m 16s] — items=784 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 20:42:26] Próxima corrida: 21:12:26 (en 30 minutos)
+[2026-03-30 21:12:26] --- Corrida #254 iniciando ---
+[2026-03-30 21:14:50] ✓ Corrida #254 [2m 24s] — items=865 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 21:14:50] Próxima corrida: 21:44:50 (en 30 minutos)
+[2026-03-30 21:44:50] --- Corrida #255 iniciando ---
+[2026-03-30 21:47:14] ✓ Corrida #255 [2m 24s] — items=865 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 21:47:14] Próxima corrida: 22:17:14 (en 30 minutos)
+[2026-03-30 22:17:14] --- Corrida #256 iniciando ---
+[2026-03-30 22:19:51] ✓ Corrida #256 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 22:19:51] Próxima corrida: 22:49:51 (en 30 minutos)
+[2026-03-30 22:49:51] --- Corrida #257 iniciando ---
+[2026-03-30 22:52:27] ✓ Corrida #257 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 22:52:27] Próxima corrida: 23:22:27 (en 30 minutos)
+[2026-03-30 23:22:27] --- Corrida #258 iniciando ---
+[2026-03-30 23:25:03] ✓ Corrida #258 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 23:25:03] Próxima corrida: 23:55:03 (en 30 minutos)
+[2026-03-30 23:55:03] --- Corrida #259 iniciando ---
+[2026-03-30 23:57:42] ✓ Corrida #259 [2m 39s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-30 23:57:42] Próxima corrida: 00:27:42 (en 30 minutos)
+[2026-03-31 00:27:42] --- Corrida #260 iniciando ---
+[2026-03-31 00:30:19] ✓ Corrida #260 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 00:30:19] Próxima corrida: 01:00:19 (en 30 minutos)
+[2026-03-31 01:00:19] --- Corrida #261 iniciando ---
+[2026-03-31 01:02:56] ✓ Corrida #261 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 01:02:56] Próxima corrida: 01:32:56 (en 30 minutos)
+[2026-03-31 01:32:56] --- Corrida #262 iniciando ---
+[2026-03-31 01:35:32] ✓ Corrida #262 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 01:35:32] Próxima corrida: 02:05:32 (en 30 minutos)
+[2026-03-31 02:05:32] --- Corrida #263 iniciando ---
+[2026-03-31 02:08:09] ✓ Corrida #263 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 02:08:09] Próxima corrida: 02:38:09 (en 30 minutos)
+[2026-03-31 02:38:09] --- Corrida #264 iniciando ---
+[2026-03-31 02:40:46] ✓ Corrida #264 [2m 37s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 02:40:46] Próxima corrida: 03:10:46 (en 30 minutos)
+[2026-03-31 03:10:46] --- Corrida #265 iniciando ---
+[2026-03-31 03:13:26] ✓ Corrida #265 [2m 40s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 03:13:26] Próxima corrida: 03:43:26 (en 30 minutos)
+[2026-03-31 03:43:26] --- Corrida #266 iniciando ---
+[2026-03-31 03:46:03] ✓ Corrida #266 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 03:46:03] Próxima corrida: 04:16:03 (en 30 minutos)
+[2026-03-31 04:16:03] --- Corrida #267 iniciando ---
+[2026-03-31 04:18:39] ✓ Corrida #267 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 04:18:39] Próxima corrida: 04:48:39 (en 30 minutos)
+[2026-03-31 04:48:39] --- Corrida #268 iniciando ---
+[2026-03-31 04:51:18] ✓ Corrida #268 [2m 38s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 04:51:18] Próxima corrida: 05:21:18 (en 30 minutos)
+[2026-03-31 05:21:18] --- Corrida #269 iniciando ---
+[2026-03-31 05:23:54] ✓ Corrida #269 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 05:23:54] Próxima corrida: 05:53:54 (en 30 minutos)
+[2026-03-31 05:53:54] --- Corrida #270 iniciando ---
+[2026-03-31 05:56:31] ✓ Corrida #270 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 05:56:31] Próxima corrida: 06:26:31 (en 30 minutos)
+[2026-03-31 06:26:31] --- Corrida #271 iniciando ---
+[2026-03-31 06:29:07] ✓ Corrida #271 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 06:29:07] Próxima corrida: 06:59:07 (en 30 minutos)
+[2026-03-31 06:59:07] --- Corrida #272 iniciando ---
+[2026-03-31 07:01:44] ✓ Corrida #272 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 07:01:44] Próxima corrida: 07:31:44 (en 30 minutos)
+[2026-03-31 07:31:44] --- Corrida #273 iniciando ---
+[2026-03-31 07:34:20] ✓ Corrida #273 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 07:34:20] Próxima corrida: 08:04:20 (en 30 minutos)
+[2026-03-31 08:04:20] --- Corrida #274 iniciando ---
+[2026-03-31 08:06:57] ✓ Corrida #274 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 08:06:57] Próxima corrida: 08:36:57 (en 30 minutos)
+[2026-03-31 08:36:57] --- Corrida #275 iniciando ---
+[2026-03-31 08:39:33] ✓ Corrida #275 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 08:39:33] Próxima corrida: 09:09:33 (en 30 minutos)
+[2026-03-31 09:09:33] --- Corrida #276 iniciando ---
+[2026-03-31 09:12:09] ✓ Corrida #276 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 09:12:09] Próxima corrida: 09:42:09 (en 30 minutos)
+[2026-03-31 09:42:10] --- Corrida #277 iniciando ---
+[2026-03-31 09:44:46] ✓ Corrida #277 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 09:44:46] Próxima corrida: 10:14:46 (en 30 minutos)
+[2026-03-31 10:14:46] --- Corrida #278 iniciando ---
+[2026-03-31 10:17:23] ✓ Corrida #278 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 10:17:23] Próxima corrida: 10:47:23 (en 30 minutos)
+[2026-03-31 10:47:23] --- Corrida #279 iniciando ---
+[2026-03-31 10:49:59] ✓ Corrida #279 [2m 36s] — items=1006 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 10:49:59] Próxima corrida: 11:19:59 (en 30 minutos)
+[2026-03-31 11:19:59] --- Corrida #280 iniciando ---
+[2026-03-31 11:22:19] ✓ Corrida #280 [2m 19s] — items=770 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 11:22:19] Próxima corrida: 11:52:19 (en 30 minutos)
+[2026-03-31 11:52:19] --- Corrida #281 iniciando ---
+[2026-03-31 11:54:35] ✓ Corrida #281 [2m 15s] — items=770 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 11:54:35] Próxima corrida: 12:24:35 (en 30 minutos)
+[2026-03-31 12:24:35] --- Corrida #282 iniciando ---
+[2026-03-31 12:26:51] ✓ Corrida #282 [2m 16s] — items=770 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 12:26:51] Próxima corrida: 12:56:51 (en 30 minutos)
+[2026-03-31 12:56:51] --- Corrida #283 iniciando ---
+[2026-03-31 12:59:07] ✓ Corrida #283 [2m 16s] — items=769 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 12:59:07] Próxima corrida: 13:29:07 (en 30 minutos)
+[2026-03-31 13:29:07] --- Corrida #284 iniciando ---
+[2026-03-31 13:31:23] ✓ Corrida #284 [2m 16s] — items=769 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 13:31:23] Próxima corrida: 14:01:23 (en 30 minutos)
+[2026-03-31 14:01:24] --- Corrida #285 iniciando ---
+[2026-03-31 14:03:40] ✓ Corrida #285 [2m 16s] — items=769 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 14:03:40] Próxima corrida: 14:33:40 (en 30 minutos)
+[2026-03-31 14:33:40] --- Corrida #286 iniciando ---
+[2026-03-31 14:36:00] ✓ Corrida #286 [2m 20s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 14:36:00] Próxima corrida: 15:06:00 (en 30 minutos)
+[2026-03-31 15:06:00] --- Corrida #287 iniciando ---
+[2026-03-31 15:08:17] ✓ Corrida #287 [2m 16s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 15:08:17] Próxima corrida: 15:38:17 (en 30 minutos)
+[2026-03-31 15:38:17] --- Corrida #288 iniciando ---
+[2026-03-31 15:40:33] ✓ Corrida #288 [2m 15s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 15:40:33] Próxima corrida: 16:10:33 (en 30 minutos)
+[2026-03-31 16:10:33] --- Corrida #289 iniciando ---
+[2026-03-31 16:12:49] ✓ Corrida #289 [2m 15s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 16:12:49] Próxima corrida: 16:42:49 (en 30 minutos)
+[2026-03-31 16:42:49] --- Corrida #290 iniciando ---
+[2026-03-31 16:45:05] ✓ Corrida #290 [2m 15s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 16:45:05] Próxima corrida: 17:15:05 (en 30 minutos)
+[2026-03-31 17:15:05] --- Corrida #291 iniciando ---
+[2026-03-31 17:17:21] ✓ Corrida #291 [2m 15s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 17:17:21] Próxima corrida: 17:47:21 (en 30 minutos)
+[2026-03-31 17:47:21] --- Corrida #292 iniciando ---
+[2026-03-31 17:49:41] ✓ Corrida #292 [2m 20s] — items=771 | opp=? | enviadas=4 | dedup=0
+[2026-03-31 17:49:41] Próxima corrida: 18:19:41 (en 30 minutos)
+[2026-03-31 18:19:41] --- Corrida #293 iniciando ---
+[2026-03-31 18:21:58] ✓ Corrida #293 [2m 16s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 18:21:58] Próxima corrida: 18:51:58 (en 30 minutos)
+[2026-03-31 18:51:58] --- Corrida #294 iniciando ---
+[2026-03-31 18:54:14] ✓ Corrida #294 [2m 16s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 18:54:14] Próxima corrida: 19:24:14 (en 30 minutos)
+[2026-03-31 19:24:14] --- Corrida #295 iniciando ---
+[2026-03-31 19:26:30] ✓ Corrida #295 [2m 16s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 19:26:30] Próxima corrida: 19:56:30 (en 30 minutos)
+[2026-03-31 19:56:31] --- Corrida #296 iniciando ---
+[2026-03-31 19:58:47] ✓ Corrida #296 [2m 16s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 19:58:47] Próxima corrida: 20:28:47 (en 30 minutos)
+[2026-03-31 20:28:47] --- Corrida #297 iniciando ---
+[2026-03-31 20:31:04] ✓ Corrida #297 [2m 16s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 20:31:04] Próxima corrida: 21:01:04 (en 30 minutos)
+[2026-03-31 21:01:04] --- Corrida #298 iniciando ---
+[2026-03-31 21:03:20] ✓ Corrida #298 [2m 15s] — items=768 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 21:03:20] Próxima corrida: 21:33:20 (en 30 minutos)
+[2026-03-31 21:33:20] --- Corrida #299 iniciando ---
+[2026-03-31 21:35:36] ✓ Corrida #299 [2m 16s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 21:35:36] Próxima corrida: 22:05:36 (en 30 minutos)
+[2026-03-31 22:05:36] --- Corrida #300 iniciando ---
+[2026-03-31 22:07:52] ✓ Corrida #300 [2m 16s] — items=771 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 22:07:52] Próxima corrida: 22:37:52 (en 30 minutos)
+[2026-03-31 22:37:52] --- Corrida #301 iniciando ---
+[2026-03-31 22:40:09] ✓ Corrida #301 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 22:40:09] Próxima corrida: 23:10:09 (en 30 minutos)
+[2026-03-31 23:10:09] --- Corrida #302 iniciando ---
+[2026-03-31 23:12:25] ✓ Corrida #302 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 23:12:25] Próxima corrida: 23:42:25 (en 30 minutos)
+[2026-03-31 23:42:25] --- Corrida #303 iniciando ---
+[2026-03-31 23:44:42] ✓ Corrida #303 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-03-31 23:44:42] Próxima corrida: 00:14:42 (en 30 minutos)
+[2026-04-01 00:14:42] --- Corrida #304 iniciando ---
+[2026-04-01 00:16:57] ✓ Corrida #304 [2m 15s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 00:16:57] Próxima corrida: 00:46:57 (en 30 minutos)
+[2026-04-01 00:46:58] --- Corrida #305 iniciando ---
+[2026-04-01 00:49:14] ✓ Corrida #305 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 00:49:14] Próxima corrida: 01:19:14 (en 30 minutos)
+[2026-04-01 01:19:14] --- Corrida #306 iniciando ---
+[2026-04-01 01:21:30] ✓ Corrida #306 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 01:21:30] Próxima corrida: 01:51:30 (en 30 minutos)
+[2026-04-01 01:51:30] --- Corrida #307 iniciando ---
+[2026-04-01 01:53:45] ✓ Corrida #307 [2m 15s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 01:53:45] Próxima corrida: 02:23:45 (en 30 minutos)
+[2026-04-01 02:23:45] --- Corrida #308 iniciando ---
+[2026-04-01 02:26:02] ✓ Corrida #308 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 02:26:02] Próxima corrida: 02:56:02 (en 30 minutos)
+[2026-04-01 02:56:02] --- Corrida #309 iniciando ---
+[2026-04-01 02:58:18] ✓ Corrida #309 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 02:58:18] Próxima corrida: 03:28:18 (en 30 minutos)
+[2026-04-01 03:28:18] --- Corrida #310 iniciando ---
+[2026-04-01 03:30:34] ✓ Corrida #310 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 03:30:34] Próxima corrida: 04:00:34 (en 30 minutos)
+[2026-04-01 04:00:34] --- Corrida #311 iniciando ---
+[2026-04-01 04:02:50] ✓ Corrida #311 [2m 15s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 04:02:50] Próxima corrida: 04:32:50 (en 30 minutos)
+[2026-04-01 04:32:50] --- Corrida #312 iniciando ---
+[2026-04-01 04:35:06] ✓ Corrida #312 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 04:35:06] Próxima corrida: 05:05:06 (en 30 minutos)
+[2026-04-01 05:05:06] --- Corrida #313 iniciando ---
+[2026-04-01 05:07:22] ✓ Corrida #313 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 05:07:22] Próxima corrida: 05:37:22 (en 30 minutos)
+[2026-04-01 05:37:22] --- Corrida #314 iniciando ---
+[2026-04-01 05:39:38] ✓ Corrida #314 [2m 15s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 05:39:38] Próxima corrida: 06:09:38 (en 30 minutos)
+[2026-04-01 06:09:38] --- Corrida #315 iniciando ---
+[2026-04-01 06:11:55] ✓ Corrida #315 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 06:11:55] Próxima corrida: 06:41:55 (en 30 minutos)
+[2026-04-01 06:41:55] --- Corrida #316 iniciando ---
+[2026-04-01 06:44:14] ✓ Corrida #316 [2m 19s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 06:44:14] Próxima corrida: 07:14:14 (en 30 minutos)
+[2026-04-01 07:14:14] --- Corrida #317 iniciando ---
+[2026-04-01 07:16:30] ✓ Corrida #317 [2m 15s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 07:16:30] Próxima corrida: 07:46:30 (en 30 minutos)
+[2026-04-01 07:46:30] --- Corrida #318 iniciando ---
+[2026-04-01 07:48:47] ✓ Corrida #318 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 07:48:47] Próxima corrida: 08:18:47 (en 30 minutos)
+[2026-04-01 08:18:47] --- Corrida #319 iniciando ---
+[2026-04-01 08:21:02] ✓ Corrida #319 [2m 15s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 08:21:02] Próxima corrida: 08:51:02 (en 30 minutos)
+[2026-04-01 08:51:02] --- Corrida #320 iniciando ---
+[2026-04-01 08:53:19] ✓ Corrida #320 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 08:53:19] Próxima corrida: 09:23:19 (en 30 minutos)
+[2026-04-01 09:23:19] --- Corrida #321 iniciando ---
+[2026-04-01 09:25:34] ✓ Corrida #321 [2m 15s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 09:25:34] Próxima corrida: 09:55:34 (en 30 minutos)
+[2026-04-01 09:55:34] --- Corrida #322 iniciando ---
+[2026-04-01 09:57:50] ✓ Corrida #322 [2m 15s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 09:57:50] Próxima corrida: 10:27:50 (en 30 minutos)
+[2026-04-01 10:27:50] --- Corrida #323 iniciando ---
+[2026-04-01 10:30:06] ✓ Corrida #323 [2m 15s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 10:30:06] Próxima corrida: 11:00:06 (en 30 minutos)
+[2026-04-01 11:00:06] --- Corrida #324 iniciando ---
+[2026-04-01 11:02:22] ✓ Corrida #324 [2m 16s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 11:02:22] Próxima corrida: 11:32:22 (en 30 minutos)
+[2026-04-01 11:32:23] --- Corrida #325 iniciando ---
+[2026-04-01 11:34:38] ✓ Corrida #325 [2m 15s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 11:34:38] Próxima corrida: 12:04:38 (en 30 minutos)
+[2026-04-01 12:04:38] --- Corrida #326 iniciando ---
+[2026-04-01 12:06:54] ✓ Corrida #326 [2m 15s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 12:06:54] Próxima corrida: 12:36:54 (en 30 minutos)
+[2026-04-01 12:36:54] --- Corrida #327 iniciando ---
+[2026-04-01 12:39:10] ✓ Corrida #327 [2m 15s] — items=781 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 12:39:10] Próxima corrida: 13:09:10 (en 30 minutos)
+[2026-04-01 13:09:10] --- Corrida #328 iniciando ---
+[2026-04-01 13:11:26] ✓ Corrida #328 [2m 15s] — items=788 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 13:11:26] Próxima corrida: 13:41:26 (en 30 minutos)
+[2026-04-01 13:41:26] --- Corrida #329 iniciando ---
+[2026-04-01 13:43:41] ✓ Corrida #329 [2m 15s] — items=788 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 13:43:41] Próxima corrida: 14:13:41 (en 30 minutos)
+[2026-04-01 14:13:41] --- Corrida #330 iniciando ---
+[2026-04-01 14:15:57] ✓ Corrida #330 [2m 16s] — items=788 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 14:15:57] Próxima corrida: 14:45:57 (en 30 minutos)
+[2026-04-01 14:45:58] --- Corrida #331 iniciando ---
+[2026-04-01 14:48:14] ✓ Corrida #331 [2m 16s] — items=788 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 14:48:14] Próxima corrida: 15:18:14 (en 30 minutos)
+[2026-04-01 15:18:14] --- Corrida #332 iniciando ---
+[2026-04-01 15:20:44] ✓ Corrida #332 [2m 30s] — items=788 | opp=? | enviadas=15 | dedup=0
+[2026-04-01 15:20:44] Próxima corrida: 15:50:44 (en 30 minutos)
+[2026-04-01 15:50:44] --- Corrida #333 iniciando ---
+[2026-04-01 15:53:15] ✓ Corrida #333 [2m 30s] — items=788 | opp=? | enviadas=15 | dedup=0
+[2026-04-01 15:53:15] Próxima corrida: 16:23:15 (en 30 minutos)
+[2026-04-01 16:23:15] --- Corrida #334 iniciando ---
+[2026-04-01 16:25:44] ✓ Corrida #334 [2m 28s] — items=788 | opp=? | enviadas=13 | dedup=0
+[2026-04-01 16:25:44] Próxima corrida: 16:55:44 (en 30 minutos)
+[2026-04-01 16:55:44] --- Corrida #335 iniciando ---
+[2026-04-01 16:58:06] ✓ Corrida #335 [2m 22s] — items=788 | opp=? | enviadas=6 | dedup=0
+[2026-04-01 16:58:06] Próxima corrida: 17:28:06 (en 30 minutos)
+[2026-04-01 17:28:06] --- Corrida #336 iniciando ---
+[2026-04-01 17:30:33] ✓ Corrida #336 [2m 26s] — items=788 | opp=? | enviadas=11 | dedup=0
+[2026-04-01 17:30:33] Próxima corrida: 18:00:33 (en 30 minutos)
+[2026-04-01 18:00:33] --- Corrida #337 iniciando ---
+[2026-04-01 18:03:04] ✓ Corrida #337 [2m 30s] — items=788 | opp=? | enviadas=15 | dedup=0
+[2026-04-01 18:03:04] Próxima corrida: 18:33:04 (en 30 minutos)
+[2026-04-01 18:33:04] --- Corrida #338 iniciando ---
+[2026-04-01 18:35:21] ✓ Corrida #338 [2m 17s] — items=749 | opp=? | enviadas=1 | dedup=0
+[2026-04-01 18:35:21] Próxima corrida: 19:05:21 (en 30 minutos)
+[2026-04-01 19:05:22] --- Corrida #339 iniciando ---
+[2026-04-01 19:07:38] ✓ Corrida #339 [2m 16s] — items=764 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 19:07:38] Próxima corrida: 19:37:38 (en 30 minutos)
+[2026-04-01 19:37:38] --- Corrida #340 iniciando ---
+[2026-04-01 19:39:49] ✓ Corrida #340 [2m 11s] — items=773 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 19:39:49] Próxima corrida: 20:09:49 (en 30 minutos)
+[2026-04-01 20:09:49] --- Corrida #341 iniciando ---
+[2026-04-01 20:11:57] ✓ Corrida #341 [2m 7s] — items=734 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 20:11:57] Próxima corrida: 20:41:57 (en 30 minutos)
+[2026-04-01 20:41:57] --- Corrida #342 iniciando ---
+[2026-04-01 20:43:57] ✓ Corrida #342 [1m 59s] — items=568 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 20:43:57] Próxima corrida: 21:13:57 (en 30 minutos)
+[2026-04-01 21:13:57] --- Corrida #343 iniciando ---
+[2026-04-01 21:15:48] ✓ Corrida #343 [1m 51s] — items=493 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 21:15:48] Próxima corrida: 21:45:48 (en 30 minutos)
+[2026-04-01 21:45:48] --- Corrida #344 iniciando ---
+[2026-04-01 21:48:00] ✓ Corrida #344 [2m 12s] — items=664 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 21:48:00] Próxima corrida: 22:18:00 (en 30 minutos)
+[2026-04-01 22:18:00] --- Corrida #345 iniciando ---
+[2026-04-01 22:20:28] ✓ Corrida #345 [2m 28s] — items=905 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 22:20:28] Próxima corrida: 22:50:28 (en 30 minutos)
+[2026-04-01 22:50:28] --- Corrida #346 iniciando ---
+[2026-04-01 22:52:57] ✓ Corrida #346 [2m 28s] — items=905 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 22:52:57] Próxima corrida: 23:22:57 (en 30 minutos)
+[2026-04-01 23:22:57] --- Corrida #347 iniciando ---
+[2026-04-01 23:25:25] ✓ Corrida #347 [2m 28s] — items=905 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 23:25:25] Próxima corrida: 23:55:25 (en 30 minutos)
+[2026-04-01 23:55:25] --- Corrida #348 iniciando ---
+[2026-04-01 23:57:53] ✓ Corrida #348 [2m 27s] — items=905 | opp=? | enviadas=0 | dedup=0
+[2026-04-01 23:57:53] Próxima corrida: 00:27:53 (en 30 minutos)
+[2026-04-02 00:27:53] --- Corrida #349 iniciando ---
+[2026-04-02 00:30:22] ✓ Corrida #349 [2m 28s] — items=905 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 00:30:22] Próxima corrida: 01:00:22 (en 30 minutos)
+[2026-04-02 01:00:22] --- Corrida #350 iniciando ---
+[2026-04-02 01:02:40] ✓ Corrida #350 [2m 18s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 01:02:40] Próxima corrida: 01:32:40 (en 30 minutos)
+[2026-04-02 01:32:40] --- Corrida #351 iniciando ---
+[2026-04-02 01:34:56] ✓ Corrida #351 [2m 16s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 01:34:56] Próxima corrida: 02:04:56 (en 30 minutos)
+[2026-04-02 02:04:56] --- Corrida #352 iniciando ---
+[2026-04-02 02:07:12] ✓ Corrida #352 [2m 15s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 02:07:12] Próxima corrida: 02:37:12 (en 30 minutos)
+[2026-04-02 02:37:12] --- Corrida #353 iniciando ---
+[2026-04-02 02:39:30] ✓ Corrida #353 [2m 18s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 02:39:30] Próxima corrida: 03:09:30 (en 30 minutos)
+[2026-04-02 03:09:30] --- Corrida #354 iniciando ---
+[2026-04-02 03:11:46] ✓ Corrida #354 [2m 16s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 03:11:46] Próxima corrida: 03:41:46 (en 30 minutos)
+[2026-04-02 03:41:46] --- Corrida #355 iniciando ---
+[2026-04-02 03:44:02] ✓ Corrida #355 [2m 15s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 03:44:02] Próxima corrida: 04:14:02 (en 30 minutos)
+[2026-04-02 04:14:02] --- Corrida #356 iniciando ---
+[2026-04-02 04:16:19] ✓ Corrida #356 [2m 17s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 04:16:19] Próxima corrida: 04:46:19 (en 30 minutos)
+[2026-04-02 04:46:20] --- Corrida #357 iniciando ---
+[2026-04-02 04:48:35] ✓ Corrida #357 [2m 15s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 04:48:35] Próxima corrida: 05:18:35 (en 30 minutos)
+[2026-04-02 05:18:35] --- Corrida #358 iniciando ---
+[2026-04-02 05:20:52] ✓ Corrida #358 [2m 16s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 05:20:52] Próxima corrida: 05:50:52 (en 30 minutos)
+[2026-04-02 05:50:52] --- Corrida #359 iniciando ---
+[2026-04-02 05:53:07] ✓ Corrida #359 [2m 15s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 05:53:07] Próxima corrida: 06:23:07 (en 30 minutos)
+[2026-04-02 06:23:07] --- Corrida #360 iniciando ---
+[2026-04-02 06:25:23] ✓ Corrida #360 [2m 15s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 06:25:23] Próxima corrida: 06:55:23 (en 30 minutos)
+[2026-04-02 06:55:23] --- Corrida #361 iniciando ---
+[2026-04-02 06:57:39] ✓ Corrida #361 [2m 15s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 06:57:39] Próxima corrida: 07:27:39 (en 30 minutos)
+[2026-04-02 07:27:39] --- Corrida #362 iniciando ---
+[2026-04-02 07:29:55] ✓ Corrida #362 [2m 16s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 07:29:55] Próxima corrida: 07:59:55 (en 30 minutos)
+[2026-04-02 07:59:55] --- Corrida #363 iniciando ---
+[2026-04-02 08:02:11] ✓ Corrida #363 [2m 15s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 08:02:11] Próxima corrida: 08:32:11 (en 30 minutos)
+[2026-04-02 08:32:11] --- Corrida #364 iniciando ---
+[2026-04-02 08:34:26] ✓ Corrida #364 [2m 15s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 08:34:26] Próxima corrida: 09:04:26 (en 30 minutos)
+[2026-04-02 09:04:27] --- Corrida #365 iniciando ---
+[2026-04-02 09:06:42] ✓ Corrida #365 [2m 15s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 09:06:42] Próxima corrida: 09:36:42 (en 30 minutos)
+[2026-04-02 09:36:42] --- Corrida #366 iniciando ---
+[2026-04-02 09:38:59] ✓ Corrida #366 [2m 16s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 09:38:59] Próxima corrida: 10:08:59 (en 30 minutos)
+[2026-04-02 10:08:59] --- Corrida #367 iniciando ---
+[2026-04-02 10:11:15] ✓ Corrida #367 [2m 16s] — items=756 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 10:11:15] Próxima corrida: 10:41:15 (en 30 minutos)
+[2026-04-02 10:41:15] --- Corrida #368 iniciando ---
+[2026-04-02 10:43:43] ✓ Corrida #368 [2m 28s] — items=889 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 10:43:43] Próxima corrida: 11:13:43 (en 30 minutos)
+[2026-04-02 11:13:43] --- Corrida #369 iniciando ---
+[2026-04-02 11:16:11] ✓ Corrida #369 [2m 28s] — items=889 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 11:16:11] Próxima corrida: 11:46:11 (en 30 minutos)
+[2026-04-02 11:46:12] --- Corrida #370 iniciando ---
+[2026-04-02 11:48:44] ✓ Corrida #370 [2m 32s] — items=946 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 11:48:44] Próxima corrida: 12:18:44 (en 30 minutos)
+[2026-04-02 12:18:44] --- Corrida #371 iniciando ---
+[2026-04-02 12:21:12] ✓ Corrida #371 [2m 28s] — items=905 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 12:21:12] Próxima corrida: 12:51:12 (en 30 minutos)
+[2026-04-02 12:51:12] --- Corrida #372 iniciando ---
+[2026-04-02 12:53:41] ✓ Corrida #372 [2m 28s] — items=905 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 12:53:41] Próxima corrida: 13:23:41 (en 30 minutos)
+[2026-04-02 13:23:41] --- Corrida #373 iniciando ---
+[2026-04-02 13:25:24] ✓ Corrida #373 [1m 42s] — items=368 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 13:25:24] Próxima corrida: 13:55:24 (en 30 minutos)
+[2026-04-02 13:55:24] --- Corrida #374 iniciando ---
+[2026-04-02 13:57:07] ✓ Corrida #374 [1m 43s] — items=368 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 13:57:07] Próxima corrida: 14:27:07 (en 30 minutos)
+[2026-04-02 14:27:07] --- Corrida #375 iniciando ---
+[2026-04-02 14:28:50] ✓ Corrida #375 [1m 43s] — items=368 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 14:28:50] Próxima corrida: 14:58:50 (en 30 minutos)
+[2026-04-02 14:58:50] --- Corrida #376 iniciando ---
+[2026-04-02 15:00:37] ✓ Corrida #376 [1m 47s] — items=399 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 15:00:37] Próxima corrida: 15:30:37 (en 30 minutos)
+[2026-04-02 15:30:37] --- Corrida #377 iniciando ---
+[2026-04-02 15:32:25] ✓ Corrida #377 [1m 47s] — items=399 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 15:32:25] Próxima corrida: 16:02:25 (en 30 minutos)
+[2026-04-02 16:02:25] --- Corrida #378 iniciando ---
+[2026-04-02 16:04:12] ✓ Corrida #378 [1m 47s] — items=399 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 16:04:12] Próxima corrida: 16:34:12 (en 30 minutos)
+[2026-04-02 16:34:12] --- Corrida #379 iniciando ---
+[2026-04-02 16:35:59] ✓ Corrida #379 [1m 47s] — items=397 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 16:35:59] Próxima corrida: 17:05:59 (en 30 minutos)
+[2026-04-02 17:05:59] --- Corrida #380 iniciando ---
+[2026-04-02 17:07:47] ✓ Corrida #380 [1m 47s] — items=397 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 17:07:47] Próxima corrida: 17:37:47 (en 30 minutos)
+[2026-04-02 17:37:47] --- Corrida #381 iniciando ---
+[2026-04-02 17:39:34] ✓ Corrida #381 [1m 47s] — items=397 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 17:39:34] Próxima corrida: 18:09:34 (en 30 minutos)
+[2026-04-02 18:09:34] --- Corrida #382 iniciando ---
+[2026-04-02 18:11:21] ✓ Corrida #382 [1m 47s] — items=397 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 18:11:21] Próxima corrida: 18:41:21 (en 30 minutos)
+[2026-04-02 18:41:21] --- Corrida #383 iniciando ---
+[2026-04-02 18:43:08] ✓ Corrida #383 [1m 47s] — items=397 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 18:43:08] Próxima corrida: 19:13:08 (en 30 minutos)
+[2026-04-02 19:13:09] --- Corrida #384 iniciando ---
+[2026-04-02 19:14:56] ✓ Corrida #384 [1m 47s] — items=397 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 19:14:56] Próxima corrida: 19:44:56 (en 30 minutos)
+[2026-04-02 19:44:56] --- Corrida #385 iniciando ---
+[2026-04-02 19:46:47] ✓ Corrida #385 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 19:46:47] Próxima corrida: 20:16:47 (en 30 minutos)
+[2026-04-02 20:16:47] --- Corrida #386 iniciando ---
+[2026-04-02 20:18:39] ✓ Corrida #386 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 20:18:39] Próxima corrida: 20:48:39 (en 30 minutos)
+[2026-04-02 20:48:39] --- Corrida #387 iniciando ---
+[2026-04-02 20:50:30] ✓ Corrida #387 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 20:50:30] Próxima corrida: 21:20:30 (en 30 minutos)
+[2026-04-02 21:20:30] --- Corrida #388 iniciando ---
+[2026-04-02 21:22:22] ✓ Corrida #388 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 21:22:22] Próxima corrida: 21:52:22 (en 30 minutos)
+[2026-04-02 21:52:22] --- Corrida #389 iniciando ---
+[2026-04-02 21:54:13] ✓ Corrida #389 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 21:54:13] Próxima corrida: 22:24:13 (en 30 minutos)
+[2026-04-02 22:24:13] --- Corrida #390 iniciando ---
+[2026-04-02 22:26:05] ✓ Corrida #390 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 22:26:05] Próxima corrida: 22:56:05 (en 30 minutos)
+[2026-04-02 22:56:05] --- Corrida #391 iniciando ---
+[2026-04-02 22:57:56] ✓ Corrida #391 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 22:57:56] Próxima corrida: 23:27:56 (en 30 minutos)
+[2026-04-02 23:27:56] --- Corrida #392 iniciando ---
+[2026-04-02 23:29:48] ✓ Corrida #392 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-02 23:29:48] Próxima corrida: 23:59:48 (en 30 minutos)
+[2026-04-02 23:59:48] --- Corrida #393 iniciando ---
+[2026-04-03 00:01:40] ✓ Corrida #393 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 00:01:40] Próxima corrida: 00:31:40 (en 30 minutos)
+[2026-04-03 00:31:40] --- Corrida #394 iniciando ---
+[2026-04-03 00:33:32] ✓ Corrida #394 [1m 52s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 00:33:32] Próxima corrida: 01:03:32 (en 30 minutos)
+[2026-04-03 01:03:32] --- Corrida #395 iniciando ---
+[2026-04-03 01:05:24] ✓ Corrida #395 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 01:05:24] Próxima corrida: 01:35:24 (en 30 minutos)
+[2026-04-03 01:35:24] --- Corrida #396 iniciando ---
+[2026-04-03 01:37:18] ✓ Corrida #396 [1m 54s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 01:37:18] Próxima corrida: 02:07:18 (en 30 minutos)
+[2026-04-03 02:07:18] --- Corrida #397 iniciando ---
+[2026-04-03 02:09:09] ✓ Corrida #397 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 02:09:09] Próxima corrida: 02:39:09 (en 30 minutos)
+[2026-04-03 02:39:09] --- Corrida #398 iniciando ---
+[2026-04-03 02:41:01] ✓ Corrida #398 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 02:41:01] Próxima corrida: 03:11:01 (en 30 minutos)
+[2026-04-03 03:11:01] --- Corrida #399 iniciando ---
+[2026-04-03 03:12:57] ✓ Corrida #399 [1m 56s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 03:12:57] Próxima corrida: 03:42:57 (en 30 minutos)
+[2026-04-03 03:42:57] --- Corrida #400 iniciando ---
+[2026-04-03 03:44:49] ✓ Corrida #400 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 03:44:49] Próxima corrida: 04:14:49 (en 30 minutos)
+[2026-04-03 04:14:49] --- Corrida #401 iniciando ---
+[2026-04-03 04:16:41] ✓ Corrida #401 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 04:16:41] Próxima corrida: 04:46:41 (en 30 minutos)
+[2026-04-03 04:46:41] --- Corrida #402 iniciando ---
+[2026-04-03 04:48:33] ✓ Corrida #402 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 04:48:33] Próxima corrida: 05:18:33 (en 30 minutos)
+[2026-04-03 05:18:33] --- Corrida #403 iniciando ---
+[2026-04-03 05:20:24] ✓ Corrida #403 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 05:20:24] Próxima corrida: 05:50:24 (en 30 minutos)
+[2026-04-03 05:50:24] --- Corrida #404 iniciando ---
+[2026-04-03 05:52:16] ✓ Corrida #404 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 05:52:16] Próxima corrida: 06:22:16 (en 30 minutos)
+[2026-04-03 06:22:16] --- Corrida #405 iniciando ---
+[2026-04-03 06:24:07] ✓ Corrida #405 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 06:24:07] Próxima corrida: 06:54:07 (en 30 minutos)
+[2026-04-03 06:54:07] --- Corrida #406 iniciando ---
+[2026-04-03 06:55:59] ✓ Corrida #406 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 06:55:59] Próxima corrida: 07:25:59 (en 30 minutos)
+[2026-04-03 07:25:59] --- Corrida #407 iniciando ---
+[2026-04-03 07:27:50] ✓ Corrida #407 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 07:27:50] Próxima corrida: 07:57:50 (en 30 minutos)
+[2026-04-03 07:57:50] --- Corrida #408 iniciando ---
+[2026-04-03 07:59:42] ✓ Corrida #408 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 07:59:42] Próxima corrida: 08:29:42 (en 30 minutos)
+[2026-04-03 08:29:42] --- Corrida #409 iniciando ---
+[2026-04-03 08:31:33] ✓ Corrida #409 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 08:31:33] Próxima corrida: 09:01:33 (en 30 minutos)
+[2026-04-03 09:01:33] --- Corrida #410 iniciando ---
+[2026-04-03 09:03:25] ✓ Corrida #410 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 09:03:25] Próxima corrida: 09:33:25 (en 30 minutos)
+[2026-04-03 09:33:25] --- Corrida #411 iniciando ---
+[2026-04-03 09:35:16] ✓ Corrida #411 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 09:35:16] Próxima corrida: 10:05:16 (en 30 minutos)
+[2026-04-03 10:05:16] --- Corrida #412 iniciando ---
+[2026-04-03 10:07:07] ✓ Corrida #412 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 10:07:07] Próxima corrida: 10:37:07 (en 30 minutos)
+[2026-04-03 10:37:07] --- Corrida #413 iniciando ---
+[2026-04-03 10:38:59] ✓ Corrida #413 [1m 51s] — items=445 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 10:38:59] Próxima corrida: 11:08:59 (en 30 minutos)
+[2026-04-03 11:08:59] --- Corrida #414 iniciando ---
+[2026-04-03 11:10:50] ✓ Corrida #414 [1m 51s] — items=444 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 11:10:50] Próxima corrida: 11:40:50 (en 30 minutos)
+[2026-04-03 11:40:50] --- Corrida #415 iniciando ---
+[2026-04-03 11:42:42] ✓ Corrida #415 [1m 51s] — items=444 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 11:42:42] Próxima corrida: 12:12:42 (en 30 minutos)
+[2026-04-03 12:12:42] --- Corrida #416 iniciando ---
+[2026-04-03 12:14:34] ✓ Corrida #416 [1m 51s] — items=444 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 12:14:34] Próxima corrida: 12:44:34 (en 30 minutos)
+[2026-04-03 12:44:34] --- Corrida #417 iniciando ---
+[2026-04-03 12:46:25] ✓ Corrida #417 [1m 51s] — items=444 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 12:46:25] Próxima corrida: 13:16:25 (en 30 minutos)
+[2026-04-03 13:16:26] --- Corrida #418 iniciando ---
+[2026-04-03 13:18:17] ✓ Corrida #418 [1m 51s] — items=444 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 13:18:17] Próxima corrida: 13:48:17 (en 30 minutos)
+[2026-04-03 13:48:17] --- Corrida #419 iniciando ---
+[2026-04-03 13:50:08] ✓ Corrida #419 [1m 51s] — items=444 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 13:50:08] Próxima corrida: 14:20:08 (en 30 minutos)
+[2026-04-03 14:20:09] --- Corrida #420 iniciando ---
+[2026-04-03 14:22:00] ✓ Corrida #420 [1m 51s] — items=444 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 14:22:00] Próxima corrida: 14:52:00 (en 30 minutos)
+[2026-04-03 14:52:00] --- Corrida #421 iniciando ---
+[2026-04-03 14:53:52] ✓ Corrida #421 [1m 51s] — items=444 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 14:53:52] Próxima corrida: 15:23:52 (en 30 minutos)
+[2026-04-03 15:23:52] --- Corrida #422 iniciando ---
+[2026-04-03 15:25:43] ✓ Corrida #422 [1m 51s] — items=444 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 15:25:43] Próxima corrida: 15:55:43 (en 30 minutos)
+[2026-04-03 15:55:43] --- Corrida #423 iniciando ---
+[2026-04-03 15:57:35] ✓ Corrida #423 [1m 51s] — items=443 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 15:57:35] Próxima corrida: 16:27:35 (en 30 minutos)
+[2026-04-03 16:27:35] --- Corrida #424 iniciando ---
+[2026-04-03 16:29:42] ✓ Corrida #424 [2m 6s] — items=443 | opp=? | enviadas=15 | dedup=0
+[2026-04-03 16:29:42] Próxima corrida: 16:59:42 (en 30 minutos)
+[2026-04-03 16:59:42] --- Corrida #425 iniciando ---
+[2026-04-03 17:01:39] ✓ Corrida #425 [1m 57s] — items=443 | opp=? | enviadas=5 | dedup=0
+[2026-04-03 17:01:39] Próxima corrida: 17:31:39 (en 30 minutos)
+[2026-04-03 17:31:39] --- Corrida #426 iniciando ---
+[2026-04-03 17:33:46] ✓ Corrida #426 [2m 6s] — items=443 | opp=? | enviadas=15 | dedup=0
+[2026-04-03 17:33:46] Próxima corrida: 18:03:46 (en 30 minutos)
+[2026-04-03 18:03:46] --- Corrida #427 iniciando ---
+[2026-04-03 18:05:37] ✓ Corrida #427 [1m 51s] — items=443 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 18:05:37] Próxima corrida: 18:35:37 (en 30 minutos)
+[2026-04-03 18:35:37] --- Corrida #428 iniciando ---
+[2026-04-03 18:37:29] ✓ Corrida #428 [1m 51s] — items=443 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 18:37:29] Próxima corrida: 19:07:29 (en 30 minutos)
+[2026-04-03 19:07:29] --- Corrida #429 iniciando ---
+[2026-04-03 19:09:20] ✓ Corrida #429 [1m 51s] — items=443 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 19:09:20] Próxima corrida: 19:39:20 (en 30 minutos)
+[2026-04-03 19:39:21] --- Corrida #430 iniciando ---
+[2026-04-03 19:41:12] ✓ Corrida #430 [1m 51s] — items=443 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 19:41:12] Próxima corrida: 20:11:12 (en 30 minutos)
+[2026-04-03 20:11:12] --- Corrida #431 iniciando ---
+[2026-04-03 20:12:59] ✓ Corrida #431 [1m 47s] — items=413 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 20:12:59] Próxima corrida: 20:42:59 (en 30 minutos)
+[2026-04-03 20:42:59] --- Corrida #432 iniciando ---
+[2026-04-03 20:44:47] ✓ Corrida #432 [1m 47s] — items=413 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 20:44:47] Próxima corrida: 21:14:47 (en 30 minutos)
+[2026-04-03 21:14:47] --- Corrida #433 iniciando ---
+[2026-04-03 21:16:34] ✓ Corrida #433 [1m 47s] — items=413 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 21:16:34] Próxima corrida: 21:46:34 (en 30 minutos)
+[2026-04-03 21:46:34] --- Corrida #434 iniciando ---
+[2026-04-03 21:48:17] ✓ Corrida #434 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 21:48:17] Próxima corrida: 22:18:17 (en 30 minutos)
+[2026-04-03 22:18:17] --- Corrida #435 iniciando ---
+[2026-04-03 22:20:01] ✓ Corrida #435 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 22:20:01] Próxima corrida: 22:50:01 (en 30 minutos)
+[2026-04-03 22:50:01] --- Corrida #436 iniciando ---
+[2026-04-03 22:51:44] ✓ Corrida #436 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 22:51:44] Próxima corrida: 23:21:44 (en 30 minutos)
+[2026-04-03 23:21:44] --- Corrida #437 iniciando ---
+[2026-04-03 23:23:27] ✓ Corrida #437 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 23:23:27] Próxima corrida: 23:53:27 (en 30 minutos)
+[2026-04-03 23:53:27] --- Corrida #438 iniciando ---
+[2026-04-03 23:55:11] ✓ Corrida #438 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-03 23:55:11] Próxima corrida: 00:25:11 (en 30 minutos)
+[2026-04-04 00:25:11] --- Corrida #439 iniciando ---
+[2026-04-04 00:26:54] ✓ Corrida #439 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 00:26:54] Próxima corrida: 00:56:54 (en 30 minutos)
+[2026-04-04 00:56:54] --- Corrida #440 iniciando ---
+[2026-04-04 00:58:37] ✓ Corrida #440 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 00:58:37] Próxima corrida: 01:28:37 (en 30 minutos)
+[2026-04-04 01:28:37] --- Corrida #441 iniciando ---
+[2026-04-04 01:30:21] ✓ Corrida #441 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 01:30:21] Próxima corrida: 02:00:21 (en 30 minutos)
+[2026-04-04 02:00:21] --- Corrida #442 iniciando ---
+[2026-04-04 02:02:04] ✓ Corrida #442 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 02:02:04] Próxima corrida: 02:32:04 (en 30 minutos)
+[2026-04-04 02:32:04] --- Corrida #443 iniciando ---
+[2026-04-04 02:33:47] ✓ Corrida #443 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 02:33:47] Próxima corrida: 03:03:47 (en 30 minutos)
+[2026-04-04 03:03:47] --- Corrida #444 iniciando ---
+[2026-04-04 03:05:31] ✓ Corrida #444 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 03:05:31] Próxima corrida: 03:35:31 (en 30 minutos)
+[2026-04-04 03:35:31] --- Corrida #445 iniciando ---
+[2026-04-04 03:37:15] ✓ Corrida #445 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 03:37:15] Próxima corrida: 04:07:15 (en 30 minutos)
+[2026-04-04 04:07:15] --- Corrida #446 iniciando ---
+[2026-04-04 04:09:02] ✓ Corrida #446 [1m 47s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 04:09:02] Próxima corrida: 04:39:02 (en 30 minutos)
+[2026-04-04 04:39:02] --- Corrida #447 iniciando ---
+[2026-04-04 04:40:45] ✓ Corrida #447 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 04:40:45] Próxima corrida: 05:10:45 (en 30 minutos)
+[2026-04-04 05:10:45] --- Corrida #448 iniciando ---
+[2026-04-04 05:12:29] ✓ Corrida #448 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 05:12:29] Próxima corrida: 05:42:29 (en 30 minutos)
+[2026-04-04 05:42:29] --- Corrida #449 iniciando ---
+[2026-04-04 05:44:14] ✓ Corrida #449 [1m 45s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 05:44:14] Próxima corrida: 06:14:14 (en 30 minutos)
+[2026-04-04 06:14:14] --- Corrida #450 iniciando ---
+[2026-04-04 06:15:58] ✓ Corrida #450 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 06:15:58] Próxima corrida: 06:45:58 (en 30 minutos)
+[2026-04-04 06:45:58] --- Corrida #451 iniciando ---
+[2026-04-04 06:47:42] ✓ Corrida #451 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 06:47:42] Próxima corrida: 07:17:42 (en 30 minutos)
+[2026-04-04 07:17:42] --- Corrida #452 iniciando ---
+[2026-04-04 07:19:29] ✓ Corrida #452 [1m 47s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 07:19:29] Próxima corrida: 07:49:29 (en 30 minutos)
+[2026-04-04 07:49:29] --- Corrida #453 iniciando ---
+[2026-04-04 07:51:12] ✓ Corrida #453 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 07:51:12] Próxima corrida: 08:21:12 (en 30 minutos)
+[2026-04-04 08:21:12] --- Corrida #454 iniciando ---
+[2026-04-04 08:22:56] ✓ Corrida #454 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 08:22:56] Próxima corrida: 08:52:56 (en 30 minutos)
+[2026-04-04 08:52:56] --- Corrida #455 iniciando ---
+[2026-04-04 08:54:39] ✓ Corrida #455 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 08:54:39] Próxima corrida: 09:24:39 (en 30 minutos)
+[2026-04-04 09:24:39] --- Corrida #456 iniciando ---
+[2026-04-04 09:26:22] ✓ Corrida #456 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 09:26:22] Próxima corrida: 09:56:22 (en 30 minutos)
+[2026-04-04 09:56:23] --- Corrida #457 iniciando ---
+[2026-04-04 09:58:07] ✓ Corrida #457 [1m 44s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 09:58:07] Próxima corrida: 10:28:07 (en 30 minutos)
+[2026-04-04 10:28:07] --- Corrida #458 iniciando ---
+[2026-04-04 10:29:50] ✓ Corrida #458 [1m 43s] — items=360 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 10:29:50] Próxima corrida: 10:59:50 (en 30 minutos)
+[2026-04-04 10:59:50] --- Corrida #459 iniciando ---
+[2026-04-04 11:01:34] ✓ Corrida #459 [1m 43s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 11:01:34] Próxima corrida: 11:31:34 (en 30 minutos)
+[2026-04-04 11:31:34] --- Corrida #460 iniciando ---
+[2026-04-04 11:33:17] ✓ Corrida #460 [1m 42s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 11:33:17] Próxima corrida: 12:03:17 (en 30 minutos)
+[2026-04-04 12:03:17] --- Corrida #461 iniciando ---
+[2026-04-04 12:05:00] ✓ Corrida #461 [1m 42s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 12:05:00] Próxima corrida: 12:35:00 (en 30 minutos)
+[2026-04-04 12:35:00] --- Corrida #462 iniciando ---
+[2026-04-04 12:36:43] ✓ Corrida #462 [1m 43s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 12:36:43] Próxima corrida: 13:06:43 (en 30 minutos)
+[2026-04-04 13:06:44] --- Corrida #463 iniciando ---
+[2026-04-04 13:08:27] ✓ Corrida #463 [1m 43s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 13:08:27] Próxima corrida: 13:38:27 (en 30 minutos)
+[2026-04-04 13:38:27] --- Corrida #464 iniciando ---
+[2026-04-04 13:40:10] ✓ Corrida #464 [1m 43s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 13:40:10] Próxima corrida: 14:10:10 (en 30 minutos)
+[2026-04-04 14:10:10] --- Corrida #465 iniciando ---
+[2026-04-04 14:11:54] ✓ Corrida #465 [1m 43s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 14:11:54] Próxima corrida: 14:41:54 (en 30 minutos)
+[2026-04-04 14:41:54] --- Corrida #466 iniciando ---
+[2026-04-04 14:43:37] ✓ Corrida #466 [1m 43s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 14:43:37] Próxima corrida: 15:13:37 (en 30 minutos)
+[2026-04-04 15:13:37] --- Corrida #467 iniciando ---
+[2026-04-04 15:15:20] ✓ Corrida #467 [1m 42s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 15:15:20] Próxima corrida: 15:45:20 (en 30 minutos)
+[2026-04-04 15:45:20] --- Corrida #468 iniciando ---
+[2026-04-04 15:47:05] ✓ Corrida #468 [1m 44s] — items=359 | opp=? | enviadas=1 | dedup=0
+[2026-04-04 15:47:05] Próxima corrida: 16:17:05 (en 30 minutos)
+[2026-04-04 16:17:05] --- Corrida #469 iniciando ---
+[2026-04-04 16:19:03] ✓ Corrida #469 [1m 57s] — items=359 | opp=? | enviadas=15 | dedup=0
+[2026-04-04 16:19:03] Próxima corrida: 16:49:03 (en 30 minutos)
+[2026-04-04 16:49:03] --- Corrida #470 iniciando ---
+[2026-04-04 16:51:01] ✓ Corrida #470 [1m 57s] — items=359 | opp=? | enviadas=15 | dedup=0
+[2026-04-04 16:51:01] Próxima corrida: 17:21:01 (en 30 minutos)
+[2026-04-04 17:21:01] --- Corrida #471 iniciando ---
+[2026-04-04 17:22:44] ✓ Corrida #471 [1m 43s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 17:22:44] Próxima corrida: 17:52:44 (en 30 minutos)
+[2026-04-04 17:52:44] --- Corrida #472 iniciando ---
+[2026-04-04 17:54:27] ✓ Corrida #472 [1m 43s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 17:54:27] Próxima corrida: 18:24:27 (en 30 minutos)
+[2026-04-04 18:24:28] --- Corrida #473 iniciando ---
+[2026-04-04 18:26:11] ✓ Corrida #473 [1m 43s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 18:26:11] Próxima corrida: 18:56:11 (en 30 minutos)
+[2026-04-04 18:56:11] --- Corrida #474 iniciando ---
+[2026-04-04 18:57:54] ✓ Corrida #474 [1m 43s] — items=359 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 18:57:54] Próxima corrida: 19:27:54 (en 30 minutos)
+[2026-04-04 19:27:54] --- Corrida #475 iniciando ---
+[2026-04-04 19:29:33] ✓ Corrida #475 [1m 38s] — items=332 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 19:29:33] Próxima corrida: 19:59:33 (en 30 minutos)
+[2026-04-04 19:59:33] --- Corrida #476 iniciando ---
+[2026-04-04 20:01:12] ✓ Corrida #476 [1m 38s] — items=291 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 20:01:12] Próxima corrida: 20:31:12 (en 30 minutos)
+[2026-04-04 20:31:12] --- Corrida #477 iniciando ---
+[2026-04-04 20:32:59] ✓ Corrida #477 [1m 47s] — items=384 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 20:32:59] Próxima corrida: 21:02:59 (en 30 minutos)
+[2026-04-04 21:02:59] --- Corrida #478 iniciando ---
+[2026-04-04 21:05:39] ✓ Corrida #478 [2m 40s] — items=1039 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 21:05:39] Próxima corrida: 21:35:39 (en 30 minutos)
+[2026-04-04 21:35:39] --- Corrida #479 iniciando ---
+[2026-04-04 21:38:20] ✓ Corrida #479 [2m 40s] — items=1039 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 21:38:20] Próxima corrida: 22:08:20 (en 30 minutos)
+[2026-04-04 22:08:20] --- Corrida #480 iniciando ---
+[2026-04-04 22:11:00] ✓ Corrida #480 [2m 39s] — items=1039 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 22:11:00] Próxima corrida: 22:41:00 (en 30 minutos)
+[2026-04-04 22:41:00] --- Corrida #481 iniciando ---
+[2026-04-04 22:43:40] ✓ Corrida #481 [2m 40s] — items=1039 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 22:43:40] Próxima corrida: 23:13:40 (en 30 minutos)
+[2026-04-04 23:13:40] --- Corrida #482 iniciando ---
+[2026-04-04 23:16:20] ✓ Corrida #482 [2m 40s] — items=1039 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 23:16:20] Próxima corrida: 23:46:20 (en 30 minutos)
+[2026-04-04 23:46:20] --- Corrida #483 iniciando ---
+[2026-04-04 23:49:01] ✓ Corrida #483 [2m 40s] — items=1039 | opp=? | enviadas=0 | dedup=0
+[2026-04-04 23:49:01] Próxima corrida: 00:19:01 (en 30 minutos)
+[2026-04-05 00:19:01] --- Corrida #484 iniciando ---
+[2026-04-05 00:21:41] ✓ Corrida #484 [2m 40s] — items=1039 | opp=? | enviadas=0 | dedup=0
+[2026-04-05 00:21:41] Próxima corrida: 00:51:41 (en 30 minutos)
+[2026-04-05 00:51:41] --- Corrida #485 iniciando ---
+[2026-04-05 00:54:22] ✓ Corrida #485 [2m 40s] — items=1039 | opp=? | enviadas=0 | dedup=0
+[2026-04-05 00:54:22] Próxima corrida: 01:24:22 (en 30 minutos)
+[2026-04-05 01:24:22] --- Corrida #486 iniciando ---
+[2026-04-05 01:27:02] ✓ Corrida #486 [2m 40s] — items=1039 | opp=? | enviadas=0 | dedup=0
+[2026-04-05 01:27:02] Próxima corrida: 01:57:02 (en 30 minutos)
+[2026-04-05 01:57:02] --- Corrida #487 iniciando ---
+[2026-04-05 01:59:43] ✓ Corrida #487 [2m 40s] — items=1039 | opp=? | enviadas=0 | dedup=0
+[2026-04-05 01:59:43] Próxima corrida: 02:29:43 (en 30 minutos)
