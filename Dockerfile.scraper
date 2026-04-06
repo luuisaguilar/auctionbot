@@ -13,10 +13,10 @@ WORKDIR /opt/auctionbot
 COPY app/ app/
 
 # Instalar dependencias Python del scraper
-RUN pip install --no-cache-dir flask==3.1.0
+RUN pip install --no-cache-dir flask==3.1.0 playwright
 
-# Playwright Chromium ya está en la imagen base
-# sólo aseguramos que el browser esté instalado
+# Playwright Chromium ya está en la imagen base, 
+# pero la librería en Python también es requerida.
 RUN playwright install chromium
 
 CMD ["python", "app/ab054_scheduler.py"]
