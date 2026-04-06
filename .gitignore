@@ -1,5 +1,5 @@
+data/
 venv/
-data/auctionbot.db
-.env
-.env.*
-!.env.example
+__pycache__/
+*.db
+*.log
