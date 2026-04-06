@@ -1920,3 +1920,6 @@ Call log:
 playwright._impl._errors.Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.auctionnation.com/#all-auctions
 Call log:
 [2026-04-05 17:10:25] Próxima corrida: 17:40:25 (en 30 minutos)
+[2026-04-05 17:40:25] --- Corrida #2 iniciando ---
+[2026-04-05 17:42:45] ✓ Corrida #2 [2m 20s] — items=838 | opp=? | enviadas=0 | dedup=0
+[2026-04-05 17:42:45] Próxima corrida: 18:12:45 (en 30 minutos)
