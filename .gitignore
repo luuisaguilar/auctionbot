@@ -1,0 +1,5 @@
+venv/
+data/auctionbot.db
+.env
+.env.*
+!.env.example
